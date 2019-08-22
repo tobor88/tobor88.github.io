@@ -4,6 +4,8 @@ Robert H. Osborne's resume can be found here. [ROBERT H. OSBORNE'S RESUME](https
 
 In order to unlock the resume file you will need the password I set up to protect the document.
 
+Here is a link to my parent GitHub page: [tobor88 GitHub Page](https://github.com/tobor88)
+
 My website can be viewed at the following link.
 WEBSITE: [https://roberthosborne.com](https://roberthosborne.com)
 
