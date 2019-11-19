@@ -4,6 +4,7 @@ Hacking How To PDFs:
 1. Wireless Password Cracking: [https://osbornepro.com/WiFiPasswordCracking.pdf](https://osbornepro.com/WiFiPasswordCracking.pdf)
 2. Ettercap Spoofing: [https://osbornepro.com/EttercapDNSSpoof.pdf](https://osbornepro.com/EttercapDNSSpoof.pdf)
 3. ARP & DNS Spoofing: [https://osbornepro.com/ArpSpoofDnsSpoof.pdf](https://osbornepro.com/ArpSpoofDnsSpoof.pdf)
+4. SSDP Spoofing : [https://osbornepro.com/SSDP-Spoofing.pdf](https://osbornepro.com/SSDP-Spoofing.pdf)
 
 - Robert H. Osborne's resume can be found here. [ROBERT H. OSBORNE'S RESUME](https://www.osbornepro.com/Robert_Osborne_Resume.docx)
 In order to unlock the resume file you will need the password I set up to protect the document.
