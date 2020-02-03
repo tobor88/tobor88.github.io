@@ -15,3 +15,6 @@ __HACKTHEBOX:__ [https://www.hackthebox.eu/profile/52286](https://www.hackthebox
 
 - Feel free to Connect with me on LinkedIn if you like what you read!<br>
 __LINKEDIN:__ [Linkedin Page](https://www.linkedin.com/in/roberthosborne/ )
+
+- Acclaim Badges
+__ACCLAIM:__ [My Acclaim](https://www.youracclaim.com/users/roberthosborne/badges)
