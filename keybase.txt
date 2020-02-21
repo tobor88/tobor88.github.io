@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/toborobot
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://osbornepro.com
+  * I am toborobot (https://keybase.io/toborobot) on keybase.
+  * I have a public key ASB1VB2S3BMRAbk6Q5ZzSPabQXXVMgeW5Gwc8wnj6BlOIAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120545259cb3a83aa98e46af4e05c23c4757f3b611f82487b9e1223567e26b359ab0a",
+      "host": "keybase.io",
+      "kid": "012075541d92dc131101b93a43967348f69b4175d5320796e46c1cf309e3e8194e200a",
+      "uid": "de6611d49787e972291b638b87606b19",
+      "username": "toborobot"
+    },
+    "merkle_root": {
+      "ctime": 1582261800,
+      "hash": "752af9ae5614b934f2ba5ab90e272ee91adacbf6b537933f5a1f7fccf2b7d468dfe87f6eefc08f62693b2dbf09e5ce7fca8a070819e45c1adefabdf7a3d7f7e4",
+      "hash_meta": "e4a264914db7d38a9ae29d944d78f4cfdc89b2226989993d8e4a8cde11749a1b",
+      "seqno": 14677437
+    },
+    "service": {
+      "entropy": "sUM7SKANzVtGzHtmwX7U5vxj",
+      "hostname": "osbornepro.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1582261810,
+  "expire_in": 504576000,
+  "prev": "d74e908f949a13761d6d51cb04177a7dfe07b67caa18434f1b0af1b8a364f303",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdVQdktwTEQG5OkOWc0j2m0F11TIHluRsHPMJ4+gZTiAKp3BheWxvYWTESpcCFsQg106Qj5SaE3YdbVHLBBd6ff4HtnyqGENPGwrxuKNk8wPEIBb+M5N0ULSg3752c0T4D+pchiOgtuaISzmgPb5gAyxJAgHCo3NpZ8RACMxMXTaMTM6SgcC43/r2Fzp7h2sNXXyXemoPUCNhFcrtpEsgV0zeOkR0T0e5qBlKQMxwKmwR50dLPqW5mLT7CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBgzRufKKFUzpw2kBzBJZohi29CQJV30fSaCX2vzbg1So3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/toborobot
+
+==================================================================
