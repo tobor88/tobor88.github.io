@@ -1,7 +1,7 @@
 ## OsbornePro
 
 - Robert H. Osborne's resume can be found here.<br>
-__RESUME:__ [ROBERT H. OSBORNE'S RESUME](https://www.osbornepro.com/Robert_Osborne_Resume.docx)<br>
+__RESUME:__ [ROBERT H. OSBORNE'S RESUME](https://web.tresorit.com/l#cPdpHar_iq0lRV2_oWceWg)<br>
 _In order to unlock the resume file you will need the password I set up to protect the document._
 
 - Here is a link to my parent GitHub page: <br>
