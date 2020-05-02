@@ -19,6 +19,6 @@ __LINKEDIN:__ [Linkedin Page](https://www.linkedin.com/in/roberthosborne/ )
 - Acclaim Badges
 __ACCLAIM:__ [My Acclaim](https://www.youracclaim.com/users/roberthosborne/badges)
 
-- PowerShell Gallery Modules
+- I have added a few of my GitHub repos to PowerShell Gallery. I believe my ReversePowerShell module to be one of the best PowerShell reverse shells available.
 __POWERSHELL GALLERY:__ [PowerShell Gallery](https://www.powershellgallery.com/profiles/tobor)
-I have added a few of my GitHub repos to PowerShell Gallery. I believe my ReversePowerShell module to be one of the best PowerShell reverse shells available.
+
