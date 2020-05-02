@@ -16,9 +16,9 @@ __HACKTHEBOX:__ [https://www.hackthebox.eu/profile/52286](https://www.hackthebox
 - Feel free to Connect with me on LinkedIn if you like what you read!<br>
 __LINKEDIN:__ [Linkedin Page](https://www.linkedin.com/in/roberthosborne/ )
 
-- Acclaim Badges<br />
+- Acclaim Badges<br>
 __ACCLAIM:__ [My Acclaim](https://www.youracclaim.com/users/roberthosborne/badges)
 
-- I have added a few of my GitHub repos to PowerShell Gallery. I believe my ReversePowerShell module to be one of the best PowerShell reverse shells available.<br />
+- I have added a few of my GitHub repos to PowerShell Gallery. I believe my ReversePowerShell module to be one of the best PowerShell reverse shells available.<br>
 __POWERSHELL GALLERY:__ [PowerShell Gallery](https://www.powershellgallery.com/profiles/tobor)
 
