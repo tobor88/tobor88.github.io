@@ -10,6 +10,9 @@ __LINKEDIN:__ [Linkedin OsbornePro](https://www.linkedin.com/company/osbornepro/
 - Follow OsbornePro LLC. on Facebook<br>
 __FACEBOOK:__ [Facebook Company](https://www.facebook.com/osborneprollc)
 
+- Follow OsbornePro LLC. on Twitter<br>
+__TWITTER:__ [Twitter OsbornePro](https://twitter.com/osborneprollc)
+
 - Subscribe to the OsbornePro YouTube Channel<br>
 __YOUTUBE:__ [YouTube OsbornePro](https://www.youtube.com/channel/UCSWdaQpT3W7UnugkWXsWEaA)
 
