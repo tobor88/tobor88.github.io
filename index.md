@@ -1,4 +1,4 @@
-# OsbornePro
+# OsbornePro LLC.
 ### Hack The Box Retired Endgame Lab Writeups
 - [POO (Endgame)](https://writeups.osbornepro.com/.pdf)
 - [Xen (Endgame)](https://writeups.osbornepro.com/.pdf)
