@@ -58,7 +58,7 @@
 - [Registry](https://writeups.osbornepro.com/Registry.pdf)
 - [Remote](https://writeups.osbornepro.com/Remote.pdf)
 - [Resolute](https://writeups.osbornepro.com/Resolute.pdf)
-- [Rope 2](https://writeups.osbornepro.com/Rope 2.pdf)
+- [Rope 2](https://writeups.osbornepro.com/Rope%202.pdf)
 - [Sauna](https://writeups.osbornepro.com/Sauna.pdf)
 - [Scavenger](https://writeups.osbornepro.com/Scavenger.pdf)
 - [ServMon](https://writeups.osbornepro.com/ServMon.pdf)
