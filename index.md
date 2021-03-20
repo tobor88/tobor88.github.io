@@ -21,6 +21,7 @@
 - [Conceal](https://writeups.osbornepro.com/Conceal.pdf)
 - [Control](https://writeups.osbornepro.com/Control.pdf)
 - [Craft](https://writeups.osbornepro.com/Craft.pdf)
+- [Crossfit](https://writeups.osbornepro.com/Crossfit.pdf)
 - [Doctor](https://writeups.osbornepro.com/Doctor.pdf)
 - [Dyplesher](https://writeups.osbornepro.com/Dyplesher.pdf)
 - [Feline](https://writeups.osbornepro.com/Feline.pdf)
