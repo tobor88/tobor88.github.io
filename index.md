@@ -82,6 +82,7 @@
 - The official website of OsbornePro LLC. can be viewed at the following link.<br>
 __Official OsbornePro LLC. Site:__ [Official OsbornePro LLC.](https://osbornepro.com)
 
+- Download EncrypIT.<br>
 [![Download EncrypIT](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/encrypit/files/latest/download)
 
 - Check out code on the Official GitHub pages: <br>
