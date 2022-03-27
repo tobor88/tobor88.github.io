@@ -2,6 +2,7 @@
 ### Hack The Box Retired Endgame Lab Writeups
 - [POO (Endgame)](https://writeups.osbornepro.com/POO.pdf)
 - [Xen (Endgame)](https://writeups.osbornepro.com/Xen.pdf)
+- [Hades (Endgame)](https://writeups.osbornepro.com/Hades.pdf)
 
 ### Hack The Box Retired Machine Writeups
 - [AI](https://writeups.osbornepro.com/AI.pdf)
