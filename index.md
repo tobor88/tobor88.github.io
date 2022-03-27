@@ -93,16 +93,9 @@ __GITLAB:__ [GitLab tobor](https://gitlab.com/tobor88)
 
 - Feel free to Connect with me on LinkedIn if you like what you read!<br>
 __LINKEDIN:__ [Linkedin Personal](https://www.linkedin.com/in/roberthosborne/)
-__LINKEDIN:__ [Linkedin OsbornePro](https://www.linkedin.com/company/osbornepro/)
-
-- Follow OsbornePro LLC. on Facebook<br>
-__FACEBOOK:__ [Facebook Company](https://www.facebook.com/osborneprollc)
-
-- Follow OsbornePro LLC. on Twitter<br>
-__TWITTER:__ [Twitter OsbornePro](https://twitter.com/osborneprollc)
 
 - Subscribe to the OsbornePro YouTube Channel<br>
-__YOUTUBE:__ [YouTube OsbornePro](https://www.youtube.com/c/OsborneProLLC)
+__YOUTUBE:__ [YouTube OsbornePro TV](https://www.youtube.com/c/OsborneProLLC)
 
 - The Blue Team PowerShell (B.T.P.S) Security Package Official Site <br>
 __The BTPS Security Package:__ [The B.T.P.S Security Package](https://btpssecpack.osbornepro.com)
