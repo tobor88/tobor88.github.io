@@ -88,9 +88,9 @@ __Official OsbornePro LLC. Site:__ [Official OsbornePro LLC.](https://osbornepro
 [![Download EncrypIT](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/encrypit/files/latest/download)
 
 - Check out code on the Official GitHub pages: <br>
-__GITHUB:__ [GitHub tobor](https://github.com/tobor88)
-__GITHUB:__ [GitHub OsbornePro](https://github.com/osbornepro)
-__GITLAB:__ [GitLab tobor](https://gitlab.com/tobor88)
+__GITHUB:__ [GitHub tobor](https://github.com/tobor88) <br>
+__GITHUB:__ [GitHub OsbornePro](https://github.com/osbornepro)<br>
+__GITLAB:__ [GitLab tobor](https://gitlab.com/tobor88)<br>
 
 - Feel free to Connect with me on LinkedIn if you like what you read!<br>
 __LINKEDIN:__ [Linkedin Personal](https://www.linkedin.com/in/roberthosborne/)
