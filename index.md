@@ -8,6 +8,7 @@
 - [AI](https://writeups.osbornepro.com/AI.pdf)
 - [Academy](https://writeups.osbornepro.com/Academy.pdf)
 - [Admirer](https://writeups.osbornepro.com/Admirer.pdf)
+- [Backdoor](https://writeups.osbornepro.com/Backdoor.pdf)
 - [BankRobber](https://writeups.osbornepro.com/BankRobber.pdf)
 - [Bastion](https://writeups.osbornepro.com/Bastion.pdf)
 - [Bitlab](https://writeups.osbornepro.com/Bitlab.pdf)
