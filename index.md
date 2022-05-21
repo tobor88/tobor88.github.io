@@ -51,6 +51,7 @@
 - [Omni](https://writeups.osbornepro.com/Omni.pdf)
 - [OpenAdmin](https://writeups.osbornepro.com/OpenAdmin.pdf)
 - [OpenKeyS](https://writeups.osbornepro.com/OpenKeyS.pdf)
+- [Pandora](https://writeups.osbornepro.com/Pandora.pdf)
 - [Passage](https://writeups.osbornepro.com/Passage.pdf)
 - [Patents](https://writeups.osbornepro.com/Patents.pdf)
 - [Player](https://writeups.osbornepro.com/Player.pdf)
