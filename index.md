@@ -75,6 +75,7 @@
 - [Travel](https://writeups.osbornepro.com/Travel.pdf)
 - [Traverxec](https://writeups.osbornepro.com/Traverxec.pdf)
 - [Unbalanced](https://writeups.osbornepro.com/Unbalanced.pdf)
+- [Unicode](https://writeups.osbornepro.com/Unicode.pdf)
 - [Wall](https://writeups.osbornepro.com/Wall.pdf)
 - [Worker](https://writeups.osbornepro.com/Worker.pdf)
 - [Writeup](https://writeups.osbornepro.com/Writeup.pdf)
