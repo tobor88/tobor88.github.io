@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: /CNAME
 Disallow: /_config.yml
-Disallow: /keybase.txt
