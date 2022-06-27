@@ -17,19 +17,19 @@
   
   <h4>Easy</h4>
 
-<li><a href="https://writeups.osbornepro.com/Academy.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Admirer.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Backdoor.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Doctor.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Friendzone.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Luanne.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/OpenAdmin.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Pandora.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Postman.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Tabby.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Traceback.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Traverxec.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Writeup.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Academy.pdf">Academy</li>
+<li><a href="https://writeups.osbornepro.com/Admirer.pdf">Admirer</li>
+<li><a href="https://writeups.osbornepro.com/Backdoor.pdf">Backdoor</li>
+<li><a href="https://writeups.osbornepro.com/Doctor.pdf">Doctor</li>
+<li><a href="https://writeups.osbornepro.com/Friendzone.pdf">Friendzone</li>
+<li><a href="https://writeups.osbornepro.com/Luanne.pdf">Luanne</li>
+<li><a href="https://writeups.osbornepro.com/OpenAdmin.pdf">OpenAdmin</li>
+<li><a href="https://writeups.osbornepro.com/Pandora.pdf">Pandora</li>
+<li><a href="https://writeups.osbornepro.com/Postman.pdf">Postman</li>
+<li><a href="https://writeups.osbornepro.com/Tabby.pdf">Tabby</li>
+<li><a href="https://writeups.osbornepro.com/Traceback.pdf">Traceback</li>
+<li><a href="https://writeups.osbornepro.com/Traverxec.pdf">Traverxec</li>
+<li><a href="https://writeups.osbornepro.com/Writeup.pdf">Writeup</li>
 
 </details>
 
@@ -39,24 +39,24 @@
   
   <h4>Medium</h4>
       
-<li><a href="https://writeups.osbornepro.com/AI.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Bitlab.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Book.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Cache.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Craft.pdf">/li>
-<li><a href="https://writeups.osbornepro.com/Jewel.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Luke.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Magic.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Mango.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Meta.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Obscurity.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/OpenKeyS.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Passage.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/SneakyMailer.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Time.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Timing.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Unicode.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Wall.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/AI.pdf">AI</li>
+<li><a href="https://writeups.osbornepro.com/Bitlab.pdf">Bitlab</li>
+<li><a href="https://writeups.osbornepro.com/Book.pdf">Book</li>
+<li><a href="https://writeups.osbornepro.com/Cache.pdf">Cache</li>
+<li><a href="https://writeups.osbornepro.com/Craft.pdf">Craft</li>
+<li><a href="https://writeups.osbornepro.com/Jewel.pdf">Jewel</li>
+<li><a href="https://writeups.osbornepro.com/Luke.pdf">Luke</li>
+<li><a href="https://writeups.osbornepro.com/Magic.pdf">Magic</li>
+<li><a href="https://writeups.osbornepro.com/Mango.pdf">Mango</li>
+<li><a href="https://writeups.osbornepro.com/Meta.pdf">Meta</li>
+<li><a href="https://writeups.osbornepro.com/Obscurity.pdf">Obscurity</li>
+<li><a href="https://writeups.osbornepro.com/OpenKeyS.pdf">OpenKeyS</li>
+<li><a href="https://writeups.osbornepro.com/Passage.pdf">Passage</li>
+<li><a href="https://writeups.osbornepro.com/SneakyMailer.pdf">SneakyMailer</li>
+<li><a href="https://writeups.osbornepro.com/Time.pdf">Time</li>
+<li><a href="https://writeups.osbornepro.com/Timing.pdf">Timing</li>
+<li><a href="https://writeups.osbornepro.com/Unicode.pdf">Unicode</li>
+<li><a href="https://writeups.osbornepro.com/Wall.pdf">Wall</li>
   
 </details>
 
@@ -65,18 +65,18 @@
   
   <h4>Hard</h4>
 
-<li><a href="https://writeups.osbornepro.com/Compromised.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Feline.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/ForwardSlash.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Intense.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Patents.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Player.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Quick.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Registry.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Scavenger.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Travel.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Unbalanced.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Zetta.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Compromised.pdf">Compromised</li>
+<li><a href="https://writeups.osbornepro.com/Feline.pdf">Feline</li>
+<li><a href="https://writeups.osbornepro.com/ForwardSlash.pdf">ForwardSlash</li>
+<li><a href="https://writeups.osbornepro.com/Intense.pdf">Intense</li>
+<li><a href="https://writeups.osbornepro.com/Patents.pdf">Patents</li>
+<li><a href="https://writeups.osbornepro.com/Player.pdf">Player</li>
+<li><a href="https://writeups.osbornepro.com/Quick.pdf">Quick</li>
+<li><a href="https://writeups.osbornepro.com/Registry.pdf">Registry</li>
+<li><a href="https://writeups.osbornepro.com/Scavenger.pdf">Scavenger</li>
+<li><a href="https://writeups.osbornepro.com/Travel.pdf">Travel</li>
+<li><a href="https://writeups.osbornepro.com/Unbalanced.pdf">Unbalanced</li>
+<li><a href="https://writeups.osbornepro.com/Zetta.pdf">Zetta</li>
       
 </details>
 
@@ -85,13 +85,13 @@
   
   <h4>Insane</h4>
 
-<li><a href="https://writeups.osbornepro.com/CTF.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/CrossFit.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Dyplesher.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Fortune.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/PlayerTwo.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/RopeTwo.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Smasher2.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/CTF.pdf">CTF</li>
+<li><a href="https://writeups.osbornepro.com/CrossFit.pdf">CrossFit</li>
+<li><a href="https://writeups.osbornepro.com/Dyplesher.pdf">Dyplesher</li>
+<li><a href="https://writeups.osbornepro.com/Fortune.pdf">Fortune</li>
+<li><a href="https://writeups.osbornepro.com/PlayerTwo.pdf">PlayerTwo</li>
+<li><a href="https://writeups.osbornepro.com/RopeTwo.pdf">RopeTwo</li>
+<li><a href="https://writeups.osbornepro.com/Smasher2.pdf">Smasher2</li>
       
 </details>
 <br>
@@ -105,17 +105,17 @@
   
   <h4>Easy</h4>
 
-<li><a href="https://writeups.osbornepro.com/Bastion.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Blunder.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Buff.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Forest.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Heist.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Nest.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/NetMon.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Omni.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Remote.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/Sauna.pdf"></li>
-<li><a href="https://writeups.osbornepro.com/ServMon.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Bastion.pdf">Bastion</li>
+<li><a href="https://writeups.osbornepro.com/Blunder.pdf">Blunder</li>
+<li><a href="https://writeups.osbornepro.com/Buff.pdf">Buff</li>
+<li><a href="https://writeups.osbornepro.com/Forest.pdf">Forest</li>
+<li><a href="https://writeups.osbornepro.com/Heist.pdf">Heist</li>
+<li><a href="https://writeups.osbornepro.com/Nest.pdf">Nest</li>
+<li><a href="https://writeups.osbornepro.com/NetMon.pdf">NetMon</li>
+<li><a href="https://writeups.osbornepro.com/Omni.pdf">Omni</li>
+<li><a href="https://writeups.osbornepro.com/Remote.pdf">Remote</li>
+<li><a href="https://writeups.osbornepro.com/Sauna.pdf">Sauna</li>
+<li><a href="https://writeups.osbornepro.com/ServMon.pdf">ServMon</li>
 
 </details>
 
@@ -124,14 +124,14 @@
   
   <h4>Medium</h4>
 
-* [Cascade - Medium Windows](https://writeups.osbornepro.com/Cascade.pdf)
-* [Fuse - Medium Windows](https://writeups.osbornepro.com/Fuse.pdf)
-* [Json - Medium Windows](https://writeups.osbornepro.com/Json.pdf)
-* [Monteverde - Medium Windows](https://writeups.osbornepro.com/Monteverde.pdf)
-* [Querier - Medium Windows](https://writeups.osbornepro.com/Querier.pdf)
-* [Resolute - Medium Windows](https://writeups.osbornepro.com/Resolute.pdf)
-* [Sniper - Medium Windows](https://writeups.osbornepro.com/Sniper.pdf)
-* [Worker - Meidum Windows](https://writeups.osbornepro.com/Worker.pdf)
+<li><a href="https://writeups.osbornepro.com/Cascade.pdf">Cascade</li>
+<li><a href="https://writeups.osbornepro.com/Fuse.pdf">Fuse</li>
+<li><a href="https://writeups.osbornepro.com/Json.pdf">Json</li>
+<li><a href="https://writeups.osbornepro.com/Monteverde.pdf">Monteverde</li>
+<li><a href="https://writeups.osbornepro.com/Querier.pdf">Querier</li>
+<li><a href="https://writeups.osbornepro.com/Resolute.pdf">Resolute</li>
+<li><a href="https://writeups.osbornepro.com/Sniper.pdf">Sniper</li>
+<li><a href="https://writeups.osbornepro.com/Worker.pdf">Worker</li>
 </details>
 
 <details>
@@ -139,11 +139,11 @@
   
   <h4>Hard</h4>
   
-* [Blackfield - Hard Windows](https://writeups.osbornepro.com/Blackfield.pdf)
-* [Conceal - Hard Windows](https://writeups.osbornepro.com/Conceal.pdf)
-* [Control - Hard Windows](https://writeups.osbornepro.com/Control.pdf)
-* [HelpLine - Hard Windows](https://writeups.osbornepro.com/HelpLine.pdf)
-* [RE - Hard Windows](https://writeups.osbornepro.com/RE.pdf)
+<li><a href="https://writeups.osbornepro.com/Blackfield.pdf">Blackfield</li>
+<li><a href="https://writeups.osbornepro.com/Conceal.pdf">Conceal</li>
+<li><a href="https://writeups.osbornepro.com/Control.pdf">Control</li>
+<li><a href="https://writeups.osbornepro.com/HelpLine.pdf">Helpline</li>
+<li><a href="https://writeups.osbornepro.com/RE.pdf">RE</li>
 </details>
 
 <details>
@@ -151,9 +151,10 @@
   
   <h4>Insane</h4>
 
-* [BankRobber - Insance Windows](https://writeups.osbornepro.com/BankRobber.pdf)
-* [HackBack - Insane Windows](https://writeups.osbornepro.com/HackBack.pdf)
-* [Multimaster - Insane Windows](https://writeups.osbornepro.com/Multimaster.pdf)
+<li><a href="https://writeups.osbornepro.com/BankRobber.pdf">BankRobber</li>
+<li><a href="https://writeups.osbornepro.com/HackBack.pdf">HackBack</li>
+<li><a href="https://writeups.osbornepro.com/Multimaster.pdf">Multimaster</li>
+  
 </details>
 
 ## LINKS TO OUR PAGES BELOW
