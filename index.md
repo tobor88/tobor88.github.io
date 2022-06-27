@@ -17,24 +17,20 @@
   
   <h4>Easy</h4>
 
-<ul>
-  
-<li> [Academy - Easy Linux](https://writeups.osbornepro.com/Academy.pdf)</li>
-<li> [Admirer - Easy Linux](https://writeups.osbornepro.com/Admirer.pdf)</li>
-<li> [Backdoor - Easy Linux](https://writeups.osbornepro.com/Backdoor.pdf)</li>
-<li> [Doctor - Easy Linux](https://writeups.osbornepro.com/Doctor.pdf)</li>
-<li> [Friendzone - Easy Linux](https://writeups.osbornepro.com/Friendzone.pdf)</li>
-<li> [Luanne - Easy NetBSD](https://writeups.osbornepro.com/Luanne.pdf)</li>
-<li> [OpenAdmin - Easy Linux](https://writeups.osbornepro.com/OpenAdmin.pdf)</li>
-<li> [Pandora - Easy Linux](https://writeups.osbornepro.com/Pandora.pdf)</li>
-<li> [Postman - Easy Linux](https://writeups.osbornepro.com/Postman.pdf)</li>
-<li> [Tabby - Easy Linux](https://writeups.osbornepro.com/Tabby.pdf)</li>
-<li> [Traceback - Easy Linux](https://writeups.osbornepro.com/Traceback.pdf)</li>
-<li> [Traverxec - Easy Linux](https://writeups.osbornepro.com/Traverxec.pdf)</li>
-<li> [Writeup - Easy Linux](https://writeups.osbornepro.com/Writeup.pdf)</li>
-  
-    </ul>
-  
+<li><a href="https://writeups.osbornepro.com/Academy.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Admirer.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Backdoor.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Doctor.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Friendzone.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Luanne.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/OpenAdmin.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Pandora.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Postman.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Tabby.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Traceback.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Traverxec.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Writeup.pdf"></li>
+
 </details>
 
 
@@ -42,29 +38,25 @@
   <summary>Expand Medium Machines</summary>
   
   <h4>Medium</h4>
-
-    <ul>
       
-<li> [AI - Medium Linux](https://writeups.osbornepro.com/AI.pdf)</li>
-<li> [Bitlab - Medium Linux](https://writeups.osbornepro.com/Bitlab.pdf)</li>
-<li> [Book - Medium Linux](https://writeups.osbornepro.com/Book.pdf)</li>
-<li> [Cache - Medium Linux](https://writeups.osbornepro.com/Cache.pdf)</li>
-<li> [Craft - Medium Linux](https://writeups.osbornepro.com/Craft.pdf)</li>
-<li> [Jewel - Medium Linux](https://writeups.osbornepro.com/Jewel.pdf)</li>
-<li> [Luke - Medium BSD](https://writeups.osbornepro.com/Luke.pdf)</li>
-<li> [Magic - Medium Linux](https://writeups.osbornepro.com/Magic.pdf)</li>
-<li> [Mango - Medium Linux](https://writeups.osbornepro.com/Mango.pdf)</li>
-<li> [Meta - Medium Linux](https://writeups.osbornepro.com/Meta.pdf)</li>
-<li> [Obscurity - Medium Linux](https://writeups.osbornepro.com/Obscurity.pdf)</li>
-<li> [OpenKeyS - Medium OpenBSD](https://writeups.osbornepro.com/OpenKeyS.pdf)</li>
-<li> [Passage - Medium Linux](https://writeups.osbornepro.com/Passage.pdf)</li>
-<li> [SneakyMailer - Medium Linux](https://writeups.osbornepro.com/SneakyMailer.pdf)</li>
-<li> [Time - Medium Linux](https://writeups.osbornepro.com/Time.pdf)</li>
-<li> [Timing - Medium Linux](https://writeups.osbornepro.com/Timing.pdf)</li>
-<li> [Unicode - Medium Linux](https://writeups.osbornepro.com/Unicode.pdf)</li>
-<li> [Wall - Medium Linux](https://writeups.osbornepro.com/Wall.pdf)</li>
-      
-    </ul>
+<li><a href="https://writeups.osbornepro.com/AI.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Bitlab.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Book.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Cache.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Craft.pdf">/li>
+<li><a href="https://writeups.osbornepro.com/Jewel.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Luke.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Magic.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Mango.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Meta.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Obscurity.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/OpenKeyS.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Passage.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/SneakyMailer.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Time.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Timing.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Unicode.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Wall.pdf"></li>
   
 </details>
 
@@ -73,23 +65,19 @@
   
   <h4>Hard</h4>
 
-    <ul>
+<li><a href="https://writeups.osbornepro.com/Compromised.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Feline.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/ForwardSlash.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Intense.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Patents.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Player.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Quick.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Registry.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Scavenger.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Travel.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Unbalanced.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Zetta.pdf"></li>
       
-<li> [Compromised - Hard Linux](https://writeups.osbornepro.com/Compromised.pdf)</li>
-<li> [Feline - Hard Linux](https://writeups.osbornepro.com/Feline.pdf)</li>
-<li> [ForwardSlash - Hard Linux](https://writeups.osbornepro.com/ForwardSlash.pdf)</li>
-<li> [Intense - Hard Linux](https://writeups.osbornepro.com/Intense.pdf)</li>
-<li> [Patents - Hard Linux](https://writeups.osbornepro.com/Patents.pdf)</li>
-<li> [Player - Hard Linux](https://writeups.osbornepro.com/Player.pdf)</li>
-<li> [Quick - Hard Linux](https://writeups.osbornepro.com/Quick.pdf)</li>
-<li> [Registry - Hard Linux](https://writeups.osbornepro.com/Registry.pdf)</li>
-<li> [Scavenger - Hard Linux](https://writeups.osbornepro.com/Scavenger.pdf)</li>
-<li> [Travel - Hard Linux](https://writeups.osbornepro.com/Travel.pdf)</li>
-<li> [Unbalanced - Hard Linux](https://writeups.osbornepro.com/Unbalanced.pdf)</li>
-<li> [Zetta - Hard Linux](https://writeups.osbornepro.com/Zetta.pdf)</li>
-      
-    </ul>
-  
 </details>
 
 <details>
@@ -97,18 +85,14 @@
   
   <h4>Insane</h4>
 
-    <ul>
+<li><a href="https://writeups.osbornepro.com/CTF.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/CrossFit.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Dyplesher.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Fortune.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/PlayerTwo.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/RopeTwo.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Smasher2.pdf"></li>
       
-<li> [CTF - Insane Linux](https://writeups.osbornepro.com/CTF.pdf)</li>
-<li> [Crossfit - Insane Linux](https://writeups.osbornepro.com/Crossfit.pdf)</li>
-<li> [Dyplesher - Insane Linux](https://writeups.osbornepro.com/Dyplesher.pdf)</li>
-<li> [Fortune - Insane NA](https://writeups.osbornepro.com/Fortune.pdf)</li>
-<li> [PlayerTwo - Insane Linux](https://writeups.osbornepro.com/Player2.pdf)</li>
-<li> [RopeTwo - Insane Linux](https://writeups.osbornepro.com/Rope%202.pdf)</li>
-<li> [Smasher2 - Insane Linux](https://writeups.osbornepro.com/Smasher2.pdf)</li>
-      
-    </ul>
-  
 </details>
 <br>
 
@@ -121,19 +105,18 @@
   
   <h4>Easy</h4>
 
-  <ul>
-<li> [Bastion - Easy Windows](https://writeups.osbornepro.com/Bastion.pdf)</li>
-<li> [Blunder - Easy Windows](https://writeups.osbornepro.com/Blunder.pdf)</li>
-<li> [Buff - Easy Windows](https://writeups.osbornepro.com/Buff.pdf)</li>
-<li> [Forest - Easy Windows](https://writeups.osbornepro.com/Forest.pdf)</li>
-<li> [Heist - Easy Windows](https://writeups.osbornepro.com/Heist.pdf)</li>
-<li> [Nest - Easy Windows](https://writeups.osbornepro.com/Nest.pdf)</li>
-<li> [NetMon - Easy Windows](https://writeups.osbornepro.com/NetMon.pdf)</li>
-<li> [Omni - Easy Windows](https://writeups.osbornepro.com/Omni.pdf)</li>
-<li> [Remote - Easy Windows](https://writeups.osbornepro.com/Remote.pdf)</li>
-<li> [Sauna - Easy Windows](https://writeups.osbornepro.com/Sauna.pdf)</li>
-<li> [ServMon - Easy Windows](https://writeups.osbornepro.com/ServMon.pdf)</li>
-  </ul>
+<li><a href="https://writeups.osbornepro.com/Bastion.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Blunder.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Buff.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Forest.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Heist.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Nest.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/NetMon.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Omni.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Remote.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/Sauna.pdf"></li>
+<li><a href="https://writeups.osbornepro.com/ServMon.pdf"></li>
+
 </details>
 
 <details>
