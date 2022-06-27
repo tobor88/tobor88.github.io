@@ -15,10 +15,11 @@
 <details>
   <summary>Expand Easy Machines</summary>
   
-  #### Easy
+  <h4>Easy</h4>
 
-    <ul>
-      <li> [Academy - Easy Linux](https://writeups.osbornepro.com/Academy.pdf)</li>
+<ul>
+  
+<li> [Academy - Easy Linux](https://writeups.osbornepro.com/Academy.pdf)</li>
 <li> [Admirer - Easy Linux](https://writeups.osbornepro.com/Admirer.pdf)</li>
 <li> [Backdoor - Easy Linux](https://writeups.osbornepro.com/Backdoor.pdf)</li>
 <li> [Doctor - Easy Linux](https://writeups.osbornepro.com/Doctor.pdf)</li>
@@ -31,16 +32,19 @@
 <li> [Traceback - Easy Linux](https://writeups.osbornepro.com/Traceback.pdf)</li>
 <li> [Traverxec - Easy Linux](https://writeups.osbornepro.com/Traverxec.pdf)</li>
 <li> [Writeup - Easy Linux](https://writeups.osbornepro.com/Writeup.pdf)</li>
+  
     </ul>
+  
 </details>
 
 
 <details>
   <summary>Expand Medium Machines</summary>
   
-  #### Medium
+  <h4>Medium</h4>
 
     <ul>
+      
 <li> [AI - Medium Linux](https://writeups.osbornepro.com/AI.pdf)</li>
 <li> [Bitlab - Medium Linux](https://writeups.osbornepro.com/Bitlab.pdf)</li>
 <li> [Book - Medium Linux](https://writeups.osbornepro.com/Book.pdf)</li>
@@ -59,15 +63,18 @@
 <li> [Timing - Medium Linux](https://writeups.osbornepro.com/Timing.pdf)</li>
 <li> [Unicode - Medium Linux](https://writeups.osbornepro.com/Unicode.pdf)</li>
 <li> [Wall - Medium Linux](https://writeups.osbornepro.com/Wall.pdf)</li>
+      
     </ul>
+  
 </details>
 
 <details>
   <summary>Expand Hard Machines</summary>
   
-  #### Hard
+  <h4>Hard</h4>
 
     <ul>
+      
 <li> [Compromised - Hard Linux](https://writeups.osbornepro.com/Compromised.pdf)</li>
 <li> [Feline - Hard Linux](https://writeups.osbornepro.com/Feline.pdf)</li>
 <li> [ForwardSlash - Hard Linux](https://writeups.osbornepro.com/ForwardSlash.pdf)</li>
@@ -80,15 +87,18 @@
 <li> [Travel - Hard Linux](https://writeups.osbornepro.com/Travel.pdf)</li>
 <li> [Unbalanced - Hard Linux](https://writeups.osbornepro.com/Unbalanced.pdf)</li>
 <li> [Zetta - Hard Linux](https://writeups.osbornepro.com/Zetta.pdf)</li>
+      
     </ul>
+  
 </details>
 
 <details>
   <summary>Expand Insane Machines</summary>
   
-  #### Insane
+  <h4>Insane</h4>
 
     <ul>
+      
 <li> [CTF - Insane Linux](https://writeups.osbornepro.com/CTF.pdf)</li>
 <li> [Crossfit - Insane Linux](https://writeups.osbornepro.com/Crossfit.pdf)</li>
 <li> [Dyplesher - Insane Linux](https://writeups.osbornepro.com/Dyplesher.pdf)</li>
@@ -96,7 +106,9 @@
 <li> [PlayerTwo - Insane Linux](https://writeups.osbornepro.com/Player2.pdf)</li>
 <li> [RopeTwo - Insane Linux](https://writeups.osbornepro.com/Rope%202.pdf)</li>
 <li> [Smasher2 - Insane Linux](https://writeups.osbornepro.com/Smasher2.pdf)</li>
+      
     </ul>
+  
 </details>
 <br>
 
@@ -107,7 +119,7 @@
 <details>
   <summary>Expand Easy Machines</summary>
   
-  #### Easy
+  <h4>Easy</h4>
 
   <ul>
 <li> [Bastion - Easy Windows](https://writeups.osbornepro.com/Bastion.pdf)</li>
@@ -127,7 +139,7 @@
 <details>
   <summary>Expand Medium Machines</summary>
   
-  #### Medium
+  <h4>Medium</h4>
 
 * [Cascade - Medium Windows](https://writeups.osbornepro.com/Cascade.pdf)
 * [Fuse - Medium Windows](https://writeups.osbornepro.com/Fuse.pdf)
@@ -142,7 +154,7 @@
 <details>
   <summary>Expand Hard Machines</summary>
   
-  #### Hard
+  <h4>Hard</h4>
   
 * [Blackfield - Hard Windows](https://writeups.osbornepro.com/Blackfield.pdf)
 * [Conceal - Hard Windows](https://writeups.osbornepro.com/Conceal.pdf)
@@ -154,7 +166,7 @@
 <details>
   <summary>Expand Insane Machines</summary>
   
-  #### Insane
+  <h4>Insane</h4>
 
 * [BankRobber - Insance Windows](https://writeups.osbornepro.com/BankRobber.pdf)
 * [HackBack - Insane Windows](https://writeups.osbornepro.com/HackBack.pdf)
