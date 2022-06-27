@@ -9,6 +9,7 @@
 - [Get HTB Invite Code](https://writeups.osbornepro.com/Get_HTB_Invite_Code.pdf)
 
 ---
+
 ### Unix HTB Machines
 
 <details>
@@ -98,7 +99,9 @@
     </ul>
 </details>
 <br>
+
 ---
+
 ### Windows HTB Machines
 
 <details>
