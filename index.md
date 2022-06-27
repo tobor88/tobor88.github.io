@@ -10,7 +10,10 @@
 
 ### Unix HTB Machines
 
-#### Easy
+<details>
+  <summary>Expand Easy Machines</summary>
+  
+  #### Easy
 
 - [Academy - Easy Linux](https://writeups.osbornepro.com/Academy.pdf)
 - [Admirer - Easy Linux](https://writeups.osbornepro.com/Admirer.pdf)
@@ -25,8 +28,13 @@
 - [Traceback - Easy Linux](https://writeups.osbornepro.com/Traceback.pdf)
 - [Traverxec - Easy Linux](https://writeups.osbornepro.com/Traverxec.pdf)
 - [Writeup - Easy Linux](https://writeups.osbornepro.com/Writeup.pdf)
+</details>
 
-#### Medium
+
+<details>
+  <summary>Expand Medium Machines</summary>
+  
+  #### Medium
 
 - [AI - Medium Linux](https://writeups.osbornepro.com/AI.pdf)
 - [Bitlab - Medium Linux](https://writeups.osbornepro.com/Bitlab.pdf)
@@ -46,8 +54,12 @@
 - [Timing - Medium Linux](https://writeups.osbornepro.com/Timing.pdf)
 - [Unicode - Medium Linux](https://writeups.osbornepro.com/Unicode.pdf)
 - [Wall - Medium Linux](https://writeups.osbornepro.com/Wall.pdf)
+</details>
 
-#### Hard
+<details>
+  <summary>Expand Hard Machines</summary>
+  
+  #### Hard
 
 - [Compromised - Hard Linux](https://writeups.osbornepro.com/Compromised.pdf)
 - [Feline - Hard Linux](https://writeups.osbornepro.com/Feline.pdf)
@@ -61,8 +73,12 @@
 - [Travel - Hard Linux](https://writeups.osbornepro.com/Travel.pdf)
 - [Unbalanced - Hard Linux](https://writeups.osbornepro.com/Unbalanced.pdf)
 - [Zetta - Hard Linux](https://writeups.osbornepro.com/Zetta.pdf)
+</details>
 
-#### Insane
+<details>
+  <summary>Expand Insane Machines</summary>
+  
+  #### Insane
 
 - [CTF - Insane Linux](https://writeups.osbornepro.com/CTF.pdf)
 - [Crossfit - Insane Linux](https://writeups.osbornepro.com/Crossfit.pdf)
@@ -71,11 +87,14 @@
 - [PlayerTwo - Insane Linux](https://writeups.osbornepro.com/Player2.pdf)
 - [RopeTwo - Insane Linux](https://writeups.osbornepro.com/Rope%202.pdf)
 - [Smasher2 - Insane Linux](https://writeups.osbornepro.com/Smasher2.pdf)
-
+</details>
 
 ### Windows HTB Machines
 
-#### Easy
+<details>
+  <summary>Expand Easy Machines</summary>
+  
+  #### Easy
 
 - [Bastion - Easy Windows](https://writeups.osbornepro.com/Bastion.pdf)
 - [Blunder - Easy Windows](https://writeups.osbornepro.com/Blunder.pdf)
@@ -88,8 +107,12 @@
 - [Remote - Easy Windows](https://writeups.osbornepro.com/Remote.pdf)
 - [Sauna - Easy Windows](https://writeups.osbornepro.com/Sauna.pdf)
 - [ServMon - Easy Windows](https://writeups.osbornepro.com/ServMon.pdf)
+</details>
 
-#### Medium
+<details>
+  <summary>Expand Medium Machines</summary>
+  
+  #### Medium
 
 - [Cascade - Medium Windows](https://writeups.osbornepro.com/Cascade.pdf)
 - [Fuse - Medium Windows](https://writeups.osbornepro.com/Fuse.pdf)
@@ -99,21 +122,29 @@
 - [Resolute - Medium Windows](https://writeups.osbornepro.com/Resolute.pdf)
 - [Sniper - Medium Windows](https://writeups.osbornepro.com/Sniper.pdf)
 - [Worker - Meidum Windows](https://writeups.osbornepro.com/Worker.pdf)
+</details>
 
-#### Hard
-
+<details>
+  <summary>Expand Hard Machines</summary>
+  
+  #### Hard
+  
 - [Blackfield - Hard Windows](https://writeups.osbornepro.com/Blackfield.pdf)
 - [Conceal - Hard Windows](https://writeups.osbornepro.com/Conceal.pdf)
 - [Control - Hard Windows](https://writeups.osbornepro.com/Control.pdf)
 - [HelpLine - Hard Windows](https://writeups.osbornepro.com/HelpLine.pdf)
 - [RE - Hard Windows](https://writeups.osbornepro.com/RE.pdf)
+</details>
 
-#### Insane
+<details>
+  <summary>Expand Insane Machines</summary>
+  
+  #### Insane
 
 - [BankRobber - Insance Windows](https://writeups.osbornepro.com/BankRobber.pdf)
 - [HackBack - Insane Windows](https://writeups.osbornepro.com/HackBack.pdf)
 - [Multimaster - Insane Windows](https://writeups.osbornepro.com/Multimaster.pdf)
-
+</details>
 
 ## LINKS TO OUR PAGES BELOW
 - The official website of OsbornePro LLC. can be viewed at the following link.<br>
