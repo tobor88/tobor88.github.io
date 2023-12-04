@@ -25,11 +25,14 @@
 <li><a href="https://writeups.osbornepro.com/Luanne.pdf">Luanne</a></li>
 <li><a href="https://writeups.osbornepro.com/OpenAdmin.pdf">OpenAdmin</a></li>
 <li><a href="https://writeups.osbornepro.com/Pandora.pdf">Pandora</a></li>
+<li><a href="https://writeups.osbornepro.com/PC.pdf">PC</a></li>
+<li><a href="https://writeups.osbornepro.com/Pilgrimage.pdf">Pilgrimage</a></li>
 <li><a href="https://writeups.osbornepro.com/Postman.pdf">Postman</a></li>
 <li><a href="https://writeups.osbornepro.com/Tabby.pdf">Tabby</a></li>
+<li><a href="https://writeups.osbornepro.com/Topology.pdf">Topology</a></li>
 <li><a href="https://writeups.osbornepro.com/Traceback.pdf">Traceback</a></li>
 <li><a href="https://writeups.osbornepro.com/Traverxec.pdf">Traverxec</a></li>
-  <li><a href="https://writeups.osbornepro.com/Writeup.pdf">Writeup</a></li>
+<li><a href="https://writeups.osbornepro.com/Writeup.pdf">Writeup</a></li>
 
 </details>
 
