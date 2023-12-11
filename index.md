@@ -128,7 +128,7 @@
   
   <h4>Medium</h4>
 
-<li><a href="https://writeups.osbornepro.com/Authority-Walkthrough.pdf">Authority</a></li>
+<li><a href="https://writeups.osbornepro.com/Authority.pdf">Authority</a></li>
 <li><a href="https://writeups.osbornepro.com/Cascade.pdf">Cascade</a></li>
 <li><a href="https://writeups.osbornepro.com/Fuse.pdf">Fuse</a></li>
 <li><a href="https://writeups.osbornepro.com/Json.pdf">Json</a></li>
