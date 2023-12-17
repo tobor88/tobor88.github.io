@@ -86,15 +86,15 @@
 
 <details>
   <summary>Expand Insane Machines</summary>
-  
-  <h4>Insane</h4>
+
+<h4>Insane</h4>
 
 <li><a href="https://writeups.osbornepro.com/CTF.pdf">CTF</a></li>
-<li><a href="https://writeups.osbornepro.com/CrossFit.pdf">CrossFit</a></li>
+<li><a href="https://writeups.osbornepro.com/Crossfit.pdf">CrossFit</a></li>
 <li><a href="https://writeups.osbornepro.com/Dyplesher.pdf">Dyplesher</a></li>
 <li><a href="https://writeups.osbornepro.com/Fortune.pdf">Fortune</a></li>
-<li><a href="https://writeups.osbornepro.com/PlayerTwo.pdf">PlayerTwo</a></li>
-<li><a href="https://writeups.osbornepro.com/RopeTwo.pdf">RopeTwo</a></li>
+<li><a href="https://writeups.osbornepro.com/Player2.pdf">PlayerTwo</a></li>
+<li><a href="https://writeups.osbornepro.com/Rope%20.pdf">RopeTwo</a></li>
 <li><a href="https://writeups.osbornepro.com/Smasher2.pdf">Smasher2</a></li>
       
 </details>
