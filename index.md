@@ -93,6 +93,7 @@
 
 <h4>Insane</h4>
 
+<li><a href="https://writeups.osbornepro.com/Bookworm.pdf">Bookworm</a></li>
 <li><a href="https://writeups.osbornepro.com/CTF.pdf">CTF</a></li>
 <li><a href="https://writeups.osbornepro.com/Crossfit.pdf">CrossFit</a></li>
 <li><a href="https://writeups.osbornepro.com/Dyplesher.pdf">Dyplesher</a></li>
