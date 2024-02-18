@@ -22,6 +22,7 @@
 <li><a href="https://writeups.osbornepro.com/Backdoor.pdf">Backdoor</a></li>
 <li><a href="https://writeups.osbornepro.com/Doctor.pdf">Doctor</a></li>
 <li><a href="https://writeups.osbornepro.com/Friendzone.pdf">Friendzone</a></li>
+<li><a href="https://writeups.osbornepro.com/Keeper.pdf">Keeper</a></li>
 <li><a href="https://writeups.osbornepro.com/Luanne.pdf">Luanne</a></li>
 <li><a href="https://writeups.osbornepro.com/OpenAdmin.pdf">OpenAdmin</a></li>
 <li><a href="https://writeups.osbornepro.com/Pandora.pdf">Pandora</a></li>
@@ -62,6 +63,7 @@
 <li><a href="https://writeups.osbornepro.com/Undetected.pdf"><Undetected</a></li>
 <li><a href="https://writeups.osbornepro.com/Unicode.pdf">Unicode</a></li>
 <li><a href="https://writeups.osbornepro.com/Wall.pdf">Wall</a></li>
+<li><a href="https://writeups.osbornepro.com/Zipping.pdf">Zipping</a></li>
   
 </details>
 
@@ -71,6 +73,7 @@
   <h4>Hard</h4>
 
 <li><a href="https://writeups.osbornepro.com/Compromised.pdf">Compromised</a></li>
+<li><a href="https://writeups.osbornepro.com/Drive.pdf">Drive</a></li>
 <li><a href="https://writeups.osbornepro.com/Feline.pdf">Feline</a></li>
 <li><a href="https://writeups.osbornepro.com/ForwardSlash.pdf">ForwardSlash</a></li>
 <li><a href="https://writeups.osbornepro.com/Intense.pdf">Intense</a></li>
