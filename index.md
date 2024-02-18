@@ -54,6 +54,7 @@
 <li><a href="https://writeups.osbornepro.com/Magic.pdf">Magic</a></li>
 <li><a href="https://writeups.osbornepro.com/Mango.pdf">Mango</a></li>
 <li><a href="https://writeups.osbornepro.com/Meta.pdf">Meta</a></li>
+<li><a href="https://writeups.osbornepro.com/Monitored.pdf">Monitored</a></li>
 <li><a href="https://writeups.osbornepro.com/Obscurity.pdf">Obscurity</a></li>
 <li><a href="https://writeups.osbornepro.com/OpenKeyS.pdf">OpenKeyS</a></li>
 <li><a href="https://writeups.osbornepro.com/Passage.pdf">Passage</a></li>
