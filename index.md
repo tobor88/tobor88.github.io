@@ -60,7 +60,7 @@
 <li><a href="https://writeups.osbornepro.com/SneakyMailer.pdf">SneakyMailer</a></li>
 <li><a href="https://writeups.osbornepro.com/Time.pdf">Time</a></li>
 <li><a href="https://writeups.osbornepro.com/Timing.pdf">Timing</a></li>
-<li><a href="https://writeups.osbornepro.com/Undetected.pdf"><Undetected</a></li>
+<li><a href="https://writeups.osbornepro.com/Undetected.pdf">Undetected</a></li>
 <li><a href="https://writeups.osbornepro.com/Unicode.pdf">Unicode</a></li>
 <li><a href="https://writeups.osbornepro.com/Wall.pdf">Wall</a></li>
 <li><a href="https://writeups.osbornepro.com/Zipping.pdf">Zipping</a></li>
