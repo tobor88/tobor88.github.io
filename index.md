@@ -193,7 +193,7 @@ __YOUTUBE:__ [YouTube OsbornePro TV](https://www.youtube.com/c/OsborneProLLC)
 __The BTPS Security Package:__ [The B.T.P.S Security Package](https://btpssecpack.osbornepro.com)
 
 - My HackTheBox Profile can be viewed at the following link.<br>
-__HACKTHEBOX:__ [HTB Profile](https://www.hackthebox.eu/profile/52286)
+__HACKTHEBOX:__ [HTB Profile](https://app.hackthebox.com/profile/52286)
 
 - Acclaim Badges<br>
 __CREDLY:__ [Credly Certificate Verifications](https://www.credly.com/users/roberthosborne/badges)
