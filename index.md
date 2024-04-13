@@ -118,6 +118,7 @@
 <li><a href="https://writeups.osbornepro.com/Bastion.pdf">Bastion</a></li>
 <li><a href="https://writeups.osbornepro.com/Blunder.pdf">Blunder</a></li>
 <li><a href="https://writeups.osbornepro.com/Buff.pdf">Buff</a></li>
+<li><a href="https://writeups.osbornepro.com/CozyHosting.pdf">CozyHosting</a></li>
 <li><a href="https://writeups.osbornepro.com/Forest.pdf">Forest</a></li>
 <li><a href="https://writeups.osbornepro.com/Heist.pdf">Heist</a></li>
 <li><a href="https://writeups.osbornepro.com/Nest.pdf">Nest</a></li>
