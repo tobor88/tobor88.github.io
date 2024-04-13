@@ -138,10 +138,12 @@
 <li><a href="https://writeups.osbornepro.com/Cascade.pdf">Cascade</a></li>
 <li><a href="https://writeups.osbornepro.com/Fuse.pdf">Fuse</a></li>
 <li><a href="https://writeups.osbornepro.com/Json.pdf">Json</a></li>
+<li><a href="https://writeups.osbornepro.com/Manager.pdf">Manager</a></li>
 <li><a href="https://writeups.osbornepro.com/Monteverde.pdf">Monteverde</a></li>
 <li><a href="https://writeups.osbornepro.com/Querier.pdf">Querier</a></li>
 <li><a href="https://writeups.osbornepro.com/Resolute.pdf">Resolute</a></li>
 <li><a href="https://writeups.osbornepro.com/Sniper.pdf">Sniper</a></li>
+<li><a href="https://writeups.osbornepro.com/Visual.pdf">Visual</a></li>
 <li><a href="https://writeups.osbornepro.com/Worker.pdf">Worker</a></li>
 </details>
 
@@ -150,6 +152,7 @@
   
   <h4>Hard</h4>
   
+<li><a href="https://writeups.osbornepro.com/Appsanity.pdf">Appsanity</a></li>
 <li><a href="https://writeups.osbornepro.com/Blackfield.pdf">Blackfield</a></li>
 <li><a href="https://writeups.osbornepro.com/Conceal.pdf">Conceal</a></li>
 <li><a href="https://writeups.osbornepro.com/Control.pdf">Control</a></li>
