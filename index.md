@@ -20,6 +20,8 @@
 <li><a href="https://writeups.osbornepro.com/Academy.pdf">Academy</a></li>
 <li><a href="https://writeups.osbornepro.com/Admirer.pdf">Admirer</a></li>
 <li><a href="https://writeups.osbornepro.com/Backdoor.pdf">Backdoor</a></li>
+<li><a href="https://writeups.osbornepro.com/Bizness.pdf">Bizness</a></li>
+<li><a href="https://writeups.osbornepro.com/Devvortex.pdf">Devvortex</a></li>
 <li><a href="https://writeups.osbornepro.com/Doctor.pdf">Doctor</a></li>
 <li><a href="https://writeups.osbornepro.com/Friendzone.pdf">Friendzone</a></li>
 <li><a href="https://writeups.osbornepro.com/Keeper.pdf">Keeper</a></li>
@@ -58,6 +60,7 @@
 <li><a href="https://writeups.osbornepro.com/Obscurity.pdf">Obscurity</a></li>
 <li><a href="https://writeups.osbornepro.com/OpenKeyS.pdf">OpenKeyS</a></li>
 <li><a href="https://writeups.osbornepro.com/Passage.pdf">Passage</a></li>
+<li><a href="https://writeups.osbornepro.com/Surveillance.pdf">Surveillance</a></li>
 <li><a href="https://writeups.osbornepro.com/SneakyMailer.pdf">SneakyMailer</a></li>
 <li><a href="https://writeups.osbornepro.com/Time.pdf">Time</a></li>
 <li><a href="https://writeups.osbornepro.com/Timing.pdf">Timing</a></li>
@@ -158,6 +161,7 @@
 <li><a href="https://writeups.osbornepro.com/Conceal.pdf">Conceal</a></li>
 <li><a href="https://writeups.osbornepro.com/Control.pdf">Control</a></li>
 <li><a href="https://writeups.osbornepro.com/HelpLine.pdf">Helpline</a></li>
+<li><a href="https://writeups.osbornepro.com/Napper.pdf">Napper</a></li>
 <li><a href="https://writeups.osbornepro.com/RE.pdf">RE</a></li>
 </details>
 
