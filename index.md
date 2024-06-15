@@ -122,6 +122,7 @@
 <li><a href="https://writeups.osbornepro.com/Blunder.pdf">Blunder</a></li>
 <li><a href="https://writeups.osbornepro.com/Buff.pdf">Buff</a></li>
 <li><a href="https://writeups.osbornepro.com/CozyHosting.pdf">CozyHosting</a></li>
+<li><a href="https://writeups.osbornepro.com/Crafty.pdf">Crafty</a></li>
 <li><a href="https://writeups.osbornepro.com/Forest.pdf">Forest</a></li>
 <li><a href="https://writeups.osbornepro.com/Heist.pdf">Heist</a></li>
 <li><a href="https://writeups.osbornepro.com/Nest.pdf">Nest</a></li>
@@ -144,6 +145,7 @@
 <li><a href="https://writeups.osbornepro.com/Json.pdf">Json</a></li>
 <li><a href="https://writeups.osbornepro.com/Manager.pdf">Manager</a></li>
 <li><a href="https://writeups.osbornepro.com/Monteverde.pdf">Monteverde</a></li>
+<li><a href="https://writeups.osbornepro.com/Pov.pdf">Pov</a></li>
 <li><a href="https://writeups.osbornepro.com/Querier.pdf">Querier</a></li>
 <li><a href="https://writeups.osbornepro.com/Resolute.pdf">Resolute</a></li>
 <li><a href="https://writeups.osbornepro.com/Sniper.pdf">Sniper</a></li>
