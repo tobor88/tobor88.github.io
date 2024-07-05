@@ -142,6 +142,7 @@
 <li><a href="https://writeups.osbornepro.com/Authority.pdf">Authority</a></li>
 <li><a href="https://writeups.osbornepro.com/Cascade.pdf">Cascade</a></li>
 <li><a href="https://writeups.osbornepro.com/Fuse.pdf">Fuse</a></li>
+<li><a href="https://writeups.osbornepro.com/Jab.pdf">Jab</a></li>
 <li><a href="https://writeups.osbornepro.com/Json.pdf">Json</a></li>
 <li><a href="https://writeups.osbornepro.com/Manager.pdf">Manager</a></li>
 <li><a href="https://writeups.osbornepro.com/Monteverde.pdf">Monteverde</a></li>
@@ -164,6 +165,7 @@
 <li><a href="https://writeups.osbornepro.com/Control.pdf">Control</a></li>
 <li><a href="https://writeups.osbornepro.com/HelpLine.pdf">Helpline</a></li>
 <li><a href="https://writeups.osbornepro.com/Napper.pdf">Napper</a></li>
+<li><a href="https://writeups.osbornepro.com/Office.pdf">Office</a></li>
 <li><a href="https://writeups.osbornepro.com/RE.pdf">RE</a></li>
 </details>
 
