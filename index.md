@@ -24,10 +24,12 @@
 <li><a href="https://writeups.osbornepro.com/Devvortex.pdf">Devvortex</a></li>
 <li><a href="https://writeups.osbornepro.com/Doctor.pdf">Doctor</a></li>
 <li><a href="https://writeups.osbornepro.com/Friendzone.pdf">Friendzone</a></li>
+<li><a href="https://writeups.osbornepro.com/Headless.pdf">Headless</a></li>
 <li><a href="https://writeups.osbornepro.com/Keeper.pdf">Keeper</a></li>
 <li><a href="https://writeups.osbornepro.com/Luanne.pdf">Luanne</a></li>
 <li><a href="https://writeups.osbornepro.com/OpenAdmin.pdf">OpenAdmin</a></li>
 <li><a href="https://writeups.osbornepro.com/Pandora.pdf">Pandora</a></li>
+<li><a href="https://writeups.osbornepro.com/Perfection.pdf">Perfection</a></li>
 <li><a href="https://writeups.osbornepro.com/PC.pdf">PC</a></li>
 <li><a href="https://writeups.osbornepro.com/Pilgrimage.pdf">Pilgrimage</a></li>
 <li><a href="https://writeups.osbornepro.com/Postman.pdf">Postman</a></li>
@@ -36,6 +38,7 @@
 <li><a href="https://writeups.osbornepro.com/Topology.pdf">Topology</a></li>
 <li><a href="https://writeups.osbornepro.com/Traceback.pdf">Traceback</a></li>
 <li><a href="https://writeups.osbornepro.com/Traverxec.pdf">Traverxec</a></li>
+<li><a href="https://writeups.osbornepro.com/Usage.pdf">Usage</a></li>
 <li><a href="https://writeups.osbornepro.com/Writeup.pdf">Writeup</a></li>
 
 </details>
@@ -67,6 +70,7 @@
 <li><a href="https://writeups.osbornepro.com/Undetected.pdf">Undetected</a></li>
 <li><a href="https://writeups.osbornepro.com/Unicode.pdf">Unicode</a></li>
 <li><a href="https://writeups.osbornepro.com/Wall.pdf">Wall</a></li>
+<li><a href="https://writeups.osbornepro.com/WifineticTwo.pdf">WifineticTwo</a></li>
 <li><a href="https://writeups.osbornepro.com/Zipping.pdf">Zipping</a></li>
   
 </details>
