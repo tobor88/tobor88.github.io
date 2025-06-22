@@ -20,9 +20,11 @@
 <li><a href="https://writeups.osbornepro.com/Academy.pdf">Academy</a></li>
 <li><a href="https://writeups.osbornepro.com/Admirer.pdf">Admirer</a></li>
 <li><a href="https://writeups.osbornepro.com/Backdoor.pdf">Backdoor</a></li>
+<li><a href="https://writeups.osbornepro.com/BoardLight.pdf">BoardLight</a></li>
 <li><a href="https://writeups.osbornepro.com/Bizness.pdf">Bizness</a></li>
 <li><a href="https://writeups.osbornepro.com/Devvortex.pdf">Devvortex</a></li>
 <li><a href="https://writeups.osbornepro.com/Doctor.pdf">Doctor</a></li>
+<li><a href="https://writeups.osbornepro.com/Editorial.pdf">Editorial</a></li>
 <li><a href="https://writeups.osbornepro.com/Friendzone.pdf">Friendzone</a></li>
 <li><a href="https://writeups.osbornepro.com/Headless.pdf">Headless</a></li>
 <li><a href="https://writeups.osbornepro.com/Keeper.pdf">Keeper</a></li>
@@ -129,6 +131,7 @@
 <li><a href="https://writeups.osbornepro.com/Crafty.pdf">Crafty</a></li>
 <li><a href="https://writeups.osbornepro.com/Forest.pdf">Forest</a></li>
 <li><a href="https://writeups.osbornepro.com/Heist.pdf">Heist</a></li>
+<li><a href="https://writeups.osbornepro.com/Mailing.pdf">Mailing</a></li>
 <li><a href="https://writeups.osbornepro.com/Nest.pdf">Nest</a></li>
 <li><a href="https://writeups.osbornepro.com/NetMon.pdf">NetMon</a></li>
 <li><a href="https://writeups.osbornepro.com/Omni.pdf">Omni</a></li>
