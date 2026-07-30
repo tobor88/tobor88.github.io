@@ -203,6 +203,9 @@
 - The official website of OsbornePro LLC. can be viewed at the following link.<br>
 __Official OsbornePro LLC. Site:__ [Official OsbornePro LLC.](https://osbornepro.com)
 
+- NovaKey App Documentation.<br>
+__NOVAKEY:__ [NovaKey App](https://novakey.app/) <br>
+
 - Download EncrypIT.<br>
 [![Download EncrypIT](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/encrypit/files/latest/download)
 
