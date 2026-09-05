@@ -1,6 +1,17 @@
-theme: jekyll-theme-midnight
+remote_theme: "mmistakes/minimal-mistakes"
 
-title: OsbornePro Security Research
-description: Hack The Box writeups, offensive security research, and practical security analysis by Robert H. Osborne.
+minimal_mistakes_skin: "catppuccin_mocha"
 
-author: Robert H. Osborne
+locale: "en-US"
+
+title: "OsbornePro Security Research"
+subtitle: "Offensive Security · Systems · Architecture"
+
+name: "Robert H. Osborne"
+
+description: >
+  Hack The Box writeups, offensive security research,
+  and practical analysis of how systems fail.
+
+plugins:
+  - jekyll-include-cache
