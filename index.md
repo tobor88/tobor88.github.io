@@ -1,8 +1,32 @@
-# OsbornePro LLC.
-### Hack The Box Retired Endgame Lab Writeups
+# OsbornePro Security Research & Hack The Box Writeups
+
+This site contains my writeups for retired Hack The Box machines, Endgame labs, and other security exercises.
+
+I use these labs as a practical way to study how systems fail in the real world: insecure configurations, weak trust boundaries, authentication flaws, privilege escalation paths, application vulnerabilities, identity weaknesses, and the interaction between operating systems, networks, and services.
+
+For me, the value is not simply completing a machine. The goal is to understand **why the vulnerability exists, what assumptions were violated, how the attack path developed, and what an engineer or architect could have done to prevent it.**
+
+That perspective directly informs how I approach infrastructure, cloud, identity, automation, and security architecture in production environments.
+
+## What These Writeups Demonstrate
+
+- **Cross-domain troubleshooting** across Windows, Linux, networking, identity, applications, and infrastructure
+- **Security analysis** of authentication, privilege boundaries, services, protocols, and misconfigurations
+- **Adversarial thinking** — understanding how systems can be abused in order to design them more defensively
+- **Technical depth** — following complex attack paths from initial discovery through privilege escalation
+- **Documentation** — turning technical investigation into repeatable, understandable walkthroughs
+
+> Offensive security is one of the ways I pressure-test my understanding of defensive architecture.
+
+---
+
+## Hack The Box Retired Endgame Lab Writeups
+
 - [POO (Endgame)](https://writeups.osbornepro.com/POO.pdf)
 - [Xen (Endgame)](https://writeups.osbornepro.com/Xen.pdf)
 - [Hades (Endgame)](https://writeups.osbornepro.com/Hades.pdf)
+
+---
 
 ## Hack The Box Retired Machine Writeups
 
@@ -199,37 +223,17 @@
 
 ---
 
-## LINKS TO OUR PAGES BELOW
-- The official website of OsbornePro LLC. can be viewed at the following link.<br>
-__Official OsbornePro LLC. Site:__ [Official OsbornePro LLC.](https://osbornepro.com)
+## More OsbornePro Work
 
-- NovaKey App Documentation.<br>
-__NOVAKEY:__ [NovaKey App](https://novakey.app/) <br>
+My security research is one part of a broader body of work covering cloud architecture, automation, infrastructure engineering, secure systems, and custom tooling.
 
-- Download EncrypIT.<br>
-[![Download EncrypIT](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/encrypit/files/latest/download)
-
-- Check out code on the Official GitHub pages: <br>
-__GITHUB:__ [GitHub tobor](https://github.com/tobor88) <br>
-__GITHUB:__ [GitHub OsbornePro](https://github.com/osbornepro)<br>
-__GITLAB:__ [GitLab tobor](https://gitlab.com/tobor88)<br>
-
-- Feel free to Connect with me on LinkedIn if you like what you read!<br>
-__LINKEDIN:__ [Linkedin Personal](https://www.linkedin.com/in/roberthosborne/)
-
-- Subscribe to the OsbornePro YouTube Channel<br>
-__YOUTUBE:__ [YouTube OsbornePro TV](https://www.youtube.com/c/OsborneProLLC)
-
-- The Blue Team PowerShell (B.T.P.S) Security Package Official Site <br>
-__The BTPS Security Package:__ [The B.T.P.S Security Package](https://btpssecpack.osbornepro.com)
-
-- My HackTheBox Profile can be viewed at the following link.<br>
-__HACKTHEBOX:__ [HTB Profile](https://app.hackthebox.com/public/users/52286)
-
-- Acclaim Badges<br>
-__CREDLY:__ [Credly Certificate Verifications](https://www.credly.com/users/roberthosborne/badges)
-
-- I have added a few of my GitHub repos to PowerShell Gallery. I believe my ReversePowerShell module to be one of the best PowerShell reverse shells available.<br>
-__POWERSHELL GALLERY:__ [PowerShell Gallery](https://www.powershellgallery.com/profiles/tobor)
+- **Technical Case Studies:** [Official Site of OsbornePro](https://osbornepro.com)
+- **NovaKey App Documentation:** [novakey.app](https://novakey.app/)
+- **GitHub (tobor88):** [tobor88](https://github.com/tobor88)
+- **GitHub (OsbornePro):** [OsbornePro](https://github.com/osbornepro)
+- **OsborneProTV YouTube Channel:** [OsbornePro TV](https://www.youtube.com/c/OsborneProLLC)
+- **PowerShell Gallery:** [tobor](https://www.powershellgallery.com/profiles/tobor)
+- **Hack The Box Profile:** [tobor](https://app.hackthebox.com/public/users/52286)
+- **Certificates & Credentials:** [Credly](https://www.credly.com/users/roberthosborne/badges)
 
 For more information on OsbornePro LLC. contact info@osbornepro.com 
