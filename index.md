@@ -1,68 +1,164 @@
 ---
-layout: single
+layout: splash
 title: "OsbornePro Security Research"
 permalink: /
-author_profile: true
 classes: wide
+author_profile: false
+
+header:
+  overlay_color: "#11111b"
+  overlay_filter: "0.30"
+  caption: "Offensive Security · Systems · Architecture"
+
+excerpt: >
+  Practical security research focused on understanding how systems fail,
+  how trust boundaries are crossed, and how better architecture can prevent it.
+
+header:
+  overlay_color: "#11111b"
+  overlay_filter: "0.25"
+  caption: "Offensive Security · Systems · Architecture"
+  actions:
+    - label: "Browse Writeups"
+      url: "#hack-the-box-writeups"
+    - label: "Hack The Box Profile"
+      url: "https://app.hackthebox.com/public/users/52286"
+
+feature_row:
+  - title: "Windows & Identity"
+    excerpt: >
+      Active Directory, authentication, privilege escalation,
+      PowerShell, Windows services, and identity attack paths.
+    url: "#windows-machines"
+    btn_label: "Windows Writeups"
+    btn_class: "btn--primary"
+
+  - title: "Linux & Infrastructure"
+    excerpt: >
+      Services, permissions, applications, network exposure,
+      local privilege escalation, and system misconfiguration.
+    url: "#unix-linux-machines"
+    btn_label: "Linux Writeups"
+    btn_class: "btn--primary"
+
+  - title: "Advanced Labs"
+    excerpt: >
+      Longer multi-system attack paths, chained vulnerabilities,
+      lateral movement, and complex trust relationships.
+    url: "#endgame-labs"
+    btn_label: "Endgame Labs"
+    btn_class: "btn--primary"
 ---
 
 # Security Through Adversarial Thinking
 
-This site contains my writeups for retired Hack The Box machines, Endgame labs, and other security exercises.
+I use offensive-security labs to study how systems fail in practice:
+misconfiguration, weak trust boundaries, authentication flaws,
+privilege escalation, identity weaknesses, application vulnerabilities,
+and the interaction between operating systems, networks, and services.
 
-I use these labs as a practical way to study how systems fail in the real world: insecure configurations, weak trust boundaries, authentication flaws, privilege escalation paths, application vulnerabilities, identity weaknesses, and the interaction between operating systems, networks, and services.
+The goal isn't simply to complete a machine. It's to understand
+**why the vulnerability existed, how the attack path developed, and what
+could have been designed differently to prevent it.**
 
-For me, the value is not simply completing a machine. The goal is to understand **why the vulnerability exists, what assumptions were violated, how the attack path developed, and what an engineer or architect could have done to prevent it.**
-
-That perspective directly informs how I approach infrastructure, cloud, identity, automation, and security architecture in production environments.
+That perspective directly informs how I approach cloud, infrastructure,
+identity, automation, and security architecture.
 
 > Offensive security is one of the ways I pressure-test my understanding of defensive architecture.
 
 ---
 
-## What This Research Demonstrates
-
-- **Cross-domain troubleshooting** across Windows, Linux, networking, identity, applications, and infrastructure
-- **Security analysis** of authentication, privilege boundaries, services, protocols, and misconfigurations
-- **Adversarial thinking** — understanding how systems can be abused in order to design them more defensively
-- **Technical depth** — following complex attack paths from initial discovery through privilege escalation
-- **Documentation** — turning technical investigation into repeatable, understandable walkthroughs
+{% include feature_row %}
 
 ---
 
-## Featured Research Areas
+## What This Research Demonstrates
 
-| Area | Focus |
-|---|---|
-| **Windows Security** | Active Directory, authentication, privilege escalation, services, PowerShell, Windows internals |
-| **Linux Security** | Services, permissions, web applications, local privilege escalation, misconfiguration |
-| **Identity & Access** | Credential exposure, authentication paths, trust relationships, authorization boundaries |
-| **Application Security** | Web vulnerabilities, insecure design, API behavior, input validation, exploitation paths |
-| **Infrastructure Security** | Network services, protocols, exposed interfaces, administrative controls |
-| **Endgame Labs** | Multi-system attack paths, advanced enumeration, chained vulnerabilities, lateral movement |
+<div class="research-grid">
+
+<div class="research-card">
+<h3>Cross-Domain Troubleshooting</h3>
+<p>
+Working across Windows, Linux, networking, identity, applications,
+services, and infrastructure rather than treating each technology
+as an isolated system.
+</p>
+</div>
+
+<div class="research-card">
+<h3>Security Analysis</h3>
+<p>
+Examining authentication, privilege boundaries, service exposure,
+protocol behavior, insecure configurations, and application weaknesses.
+</p>
+</div>
+
+<div class="research-card">
+<h3>Adversarial Thinking</h3>
+<p>
+Understanding how systems can be abused so defensive architecture
+can account for real attack paths rather than idealized assumptions.
+</p>
+</div>
+
+<div class="research-card">
+<h3>Technical Depth</h3>
+<p>
+Following attack paths from enumeration and initial access through
+privilege escalation, credential discovery, and system compromise.
+</p>
+</div>
+
+<div class="research-card">
+<h3>Documentation</h3>
+<p>
+Turning technical investigation into repeatable walkthroughs that
+explain the path, techniques, and underlying failure conditions.
+</p>
+</div>
+
+<div class="research-card">
+<h3>Defensive Architecture</h3>
+<p>
+Using lessons from offensive research to identify where stronger
+identity controls, trust boundaries, configuration, and monitoring
+could prevent or limit compromise.
+</p>
+</div>
+
+</div>
 
 ---
 
 # Hack The Box Writeups
 
-The writeups below are for **retired Hack The Box systems only**.
+The writeups below cover **retired Hack The Box systems and labs only**.
+
+They are retained as a technical research library and as a record of
+hands-on work across Windows, Linux, identity, applications, networking,
+and security.
+
+---
 
 ## Endgame Labs
 
-These labs involve longer, multi-stage attack paths and provide a good opportunity to study how individual weaknesses can combine into broader system compromise.
+These labs involve longer, multi-stage attack paths and provide a useful
+way to study how individual weaknesses combine into broader system compromise.
 
-- [POO (Endgame)](https://writeups.osbornepro.com/POO.pdf)
-- [Xen (Endgame)](https://writeups.osbornepro.com/Xen.pdf)
-- [Hades (Endgame)](https://writeups.osbornepro.com/Hades.pdf)
+<div class="lab-links">
+
+[POO (Endgame)](https://writeups.osbornepro.com/POO.pdf){: .btn .btn--primary}
+[Xen (Endgame)](https://writeups.osbornepro.com/Xen.pdf){: .btn .btn--primary}
+[Hades (Endgame)](https://writeups.osbornepro.com/Hades.pdf){: .btn .btn--primary}
+
+</div>
 
 ---
 
 ## Unix / Linux Machines
 
-<details>
-  <summary><strong>Easy Machines</strong></summary>
-
-<br>
+<details markdown="1">
+<summary><strong>Easy Machines</strong> <span class="machine-count">30 writeups</span></summary>
 
 - [Academy](https://writeups.osbornepro.com/Academy.pdf)
 - [Admirer](https://writeups.osbornepro.com/Admirer.pdf)
@@ -97,10 +193,8 @@ These labs involve longer, multi-stage attack paths and provide a good opportuni
 
 </details>
 
-<details>
-  <summary><strong>Medium Machines</strong></summary>
-
-<br>
+<details markdown="1">
+<summary><strong>Medium Machines</strong> <span class="machine-count">25 writeups</span></summary>
 
 - [AI](https://writeups.osbornepro.com/AI.pdf)
 - [Bitlab](https://writeups.osbornepro.com/Bitlab.pdf)
@@ -130,10 +224,8 @@ These labs involve longer, multi-stage attack paths and provide a good opportuni
 
 </details>
 
-<details>
-  <summary><strong>Hard Machines</strong></summary>
-
-<br>
+<details markdown="1">
+<summary><strong>Hard Machines</strong> <span class="machine-count">13 writeups</span></summary>
 
 - [Compromised](https://writeups.osbornepro.com/Compromised.pdf)
 - [Drive](https://writeups.osbornepro.com/Drive.pdf)
@@ -151,10 +243,8 @@ These labs involve longer, multi-stage attack paths and provide a good opportuni
 
 </details>
 
-<details>
-  <summary><strong>Insane Machines</strong></summary>
-
-<br>
+<details markdown="1">
+<summary><strong>Insane Machines</strong> <span class="machine-count">9 writeups</span></summary>
 
 - [Bookworm](https://writeups.osbornepro.com/Bookworm.pdf)
 - [CTF](https://writeups.osbornepro.com/CTF.pdf)
@@ -172,10 +262,8 @@ These labs involve longer, multi-stage attack paths and provide a good opportuni
 
 ## Windows Machines
 
-<details>
-  <summary><strong>Easy Machines</strong></summary>
-
-<br>
+<details markdown="1">
+<summary><strong>Easy Machines</strong> <span class="machine-count">15 writeups</span></summary>
 
 - [Bastion](https://writeups.osbornepro.com/Bastion.pdf)
 - [Blunder](https://writeups.osbornepro.com/Blunder.pdf)
@@ -195,10 +283,8 @@ These labs involve longer, multi-stage attack paths and provide a good opportuni
 
 </details>
 
-<details>
-  <summary><strong>Medium Machines</strong></summary>
-
-<br>
+<details markdown="1">
+<summary><strong>Medium Machines</strong> <span class="machine-count">14 writeups</span></summary>
 
 - [Authority](https://writeups.osbornepro.com/Authority.pdf)
 - [Cascade](https://writeups.osbornepro.com/Cascade.pdf)
@@ -217,10 +303,8 @@ These labs involve longer, multi-stage attack paths and provide a good opportuni
 
 </details>
 
-<details>
-  <summary><strong>Hard Machines</strong></summary>
-
-<br>
+<details markdown="1">
+<summary><strong>Hard Machines</strong> <span class="machine-count">8 writeups</span></summary>
 
 - [Appsanity](https://writeups.osbornepro.com/Appsanity.pdf)
 - [Blackfield](https://writeups.osbornepro.com/Blackfield.pdf)
@@ -233,10 +317,8 @@ These labs involve longer, multi-stage attack paths and provide a good opportuni
 
 </details>
 
-<details>
-  <summary><strong>Insane Machines</strong></summary>
-
-<br>
+<details markdown="1">
+<summary><strong>Insane Machines</strong> <span class="machine-count">3 writeups</span></summary>
 
 - [BankRobber](https://writeups.osbornepro.com/BankRobber.pdf)
 - [HackBack](https://writeups.osbornepro.com/HackBack.pdf)
@@ -248,25 +330,48 @@ These labs involve longer, multi-stage attack paths and provide a good opportuni
 
 ## Legacy HTB Material
 
+Some older HTB material is preserved here for historical reference.
+
 - [Get HTB Invite Code](https://writeups.osbornepro.com/Get_HTB_Invite_Code.pdf)
 
 ---
 
-# More OsbornePro Work
+# Beyond the Labs
 
-My security research is one part of a broader body of work covering cloud architecture, automation, infrastructure engineering, secure systems, and custom tooling.
+Security research is one part of a broader body of work covering
+cloud architecture, infrastructure engineering, automation,
+secure systems, identity, and custom tooling.
 
-- **Technical Case Studies:** [OsbornePro.com](https://osbornepro.com)
-- **NovaKey:** [novakey.app](https://novakey.app/)
-- **GitHub:** [tobor88](https://github.com/tobor88)
-- **OsbornePro GitHub:** [OsbornePro](https://github.com/osbornepro)
-- **OsbornePro TV:** [YouTube](https://www.youtube.com/c/OsborneProLLC)
-- **PowerShell Gallery:** [tobor](https://www.powershellgallery.com/profiles/tobor)
-- **Hack The Box Profile:** [tobor](https://app.hackthebox.com/public/users/52286)
-- **Credentials:** [Credly](https://www.credly.com/users/roberthosborne/badges)
+<div class="external-links">
+
+### Technical Case Studies
+
+Architecture and engineering work covering real-world infrastructure,
+security, automation, and operational problems.
+
+[Explore OsbornePro →](https://osbornepro.com){: .btn .btn--primary}
+
+### Projects & Tooling
+
+Custom software, security tooling, automation, and open-source projects.
+
+[GitHub →](https://github.com/tobor88){: .btn .btn--inverse}
+[OsbornePro GitHub →](https://github.com/osbornepro){: .btn .btn--inverse}
+[NovaKey →](https://novakey.app/){: .btn .btn--inverse}
+[PowerShell Gallery →](https://www.powershellgallery.com/profiles/tobor){: .btn .btn--inverse}
+
+### Technical Content & Credentials
+
+[OsbornePro TV →](https://www.youtube.com/c/OsborneProLLC){: .btn .btn--inverse}
+[Hack The Box Profile →](https://app.hackthebox.com/public/users/52286){: .btn .btn--inverse}
+[Credentials →](https://www.credly.com/users/roberthosborne/badges){: .btn .btn--inverse}
+
+</div>
 
 ---
 
 ## Contact
 
-For professional inquiries, contact **info@osbornepro.com**.
+For professional inquiries:
+
+**info@osbornepro.com**
