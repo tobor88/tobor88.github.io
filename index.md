@@ -129,18 +129,15 @@ could prevent or limit compromise.
 
 The writeups below cover **retired Hack The Box systems and labs only**.
 
-They are retained as a technical research library and as a record of
-hands-on work across Windows, Linux, identity, applications, networking,
-and security.
+They are retained as a technical research library and as a record of hands-on work across Windows, Linux, identity, applications, networking, and security.
 
 ---
 
 ## Endgame Labs
 
-These labs involve longer, multi-stage attack paths and provide a useful
-way to study how individual weaknesses combine into broader system compromise.
+These labs involve longer, multi-stage attack paths and are useful for studying how individual weaknesses can combine into broader system compromise.
 
-<div class="lab-links">
+<div class="lab-links" markdown="1">
 
 [POO (Endgame)](https://writeups.osbornepro.com/POO.pdf){: .btn .btn--primary}
 [Xen (Endgame)](https://writeups.osbornepro.com/Xen.pdf){: .btn .btn--primary}
@@ -333,16 +330,13 @@ Some older HTB material is preserved here for historical reference.
 
 # Beyond the Labs
 
-Security research is one part of a broader body of work covering
-cloud architecture, infrastructure engineering, automation,
-secure systems, identity, and custom tooling.
+Security research is one part of a broader body of work covering cloud architecture, infrastructure engineering, automation, secure systems, identity, and custom tooling.
 
-<div class="external-links">
+<div class="external-links" markdown="1">
 
 ### Technical Case Studies
 
-Architecture and engineering work covering real-world infrastructure,
-security, automation, and operational problems.
+Architecture and engineering work covering real-world infrastructure, security, automation, and operational problems.
 
 [Explore OsbornePro →](https://osbornepro.com){: .btn .btn--primary}
 
@@ -369,4 +363,4 @@ Custom software, security tooling, automation, and open-source projects.
 
 For professional inquiries:
 
-**info@osbornepro.com**
+[**info@osbornepro.com**](mailto:info@osbornepro.com)

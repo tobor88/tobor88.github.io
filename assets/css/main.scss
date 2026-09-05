@@ -186,11 +186,23 @@ details[open] {
 }
 
 details summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   cursor: pointer;
   padding: 1rem 1.15rem;
   font-weight: 700;
   user-select: none;
   list-style-position: inside;
+}
+
+.machine-count {
+  float: none;
+  font-size: 0.78rem;
+  margin-left: auto;
+  padding-left: 1rem;
+  font-weight: 500;
+  opacity: 0.65;
 }
 
 details[open] summary {
@@ -207,13 +219,6 @@ details > ul {
 details > ul li {
   break-inside: avoid;
   margin-bottom: 0.35rem;
-}
-
-.machine-count {
-  float: right;
-  font-size: 0.78rem;
-  font-weight: 500;
-  opacity: 0.65;
 }
 
 /* ------------------------------------------------------------
@@ -249,6 +254,24 @@ details > ul li {
   margin-right: 0.4rem;
   margin-bottom: 0.5rem;
 }
+.external-links h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+}
+
+.external-links h3:first-child {
+  margin-top: 0;
+}
+
+.external-links p {
+  margin-bottom: 1rem;
+}
+
+.external-links .btn {
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-bottom: 0.6rem;
+}
 
 /* ------------------------------------------------------------
    Headings
@@ -259,10 +282,15 @@ details > ul li {
 }
 
 .page__content h2 {
-  margin-top: 2.8rem;
+  margin-top: 2.2rem;
 }
 
 .page__content h3 {
+  margin-top: 2rem;
+}
+
+details + hr,
+hr + h2 {
   margin-top: 2rem;
 }
 
