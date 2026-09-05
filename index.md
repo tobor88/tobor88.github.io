@@ -7,15 +7,6 @@ author_profile: false
 
 header:
   overlay_color: "#11111b"
-  overlay_filter: "0.30"
-  caption: "Offensive Security · Systems · Architecture"
-
-excerpt: >
-  Practical security research focused on understanding how systems fail,
-  how trust boundaries are crossed, and how better architecture can prevent it.
-
-header:
-  overlay_color: "#11111b"
   overlay_filter: "0.25"
   caption: "Offensive Security · Systems · Architecture"
   actions:
@@ -23,6 +14,10 @@ header:
       url: "#hack-the-box-writeups"
     - label: "Hack The Box Profile"
       url: "https://app.hackthebox.com/public/users/52286"
+
+excerpt: >
+  Practical security research focused on understanding how systems fail,
+  how trust boundaries are crossed, and how better architecture can prevent it.
 
 feature_row:
   - title: "Windows & Identity"

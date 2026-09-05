@@ -1,0 +1,21 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Writeups"
+    url: /#hack-the-box-writeups
+
+  - title: "Windows"
+    url: /#windows-machines
+
+  - title: "Linux"
+    url: /#unix-linux-machines
+
+  - title: "OsbornePro"
+    url: "https://osbornepro.com"
+
+  - title: "GitHub"
+    url: "https://github.com/tobor88"
+
+  - title: "Hack The Box"
+    url: "https://app.hackthebox.com/public/users/52286"

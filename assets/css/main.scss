@@ -1,0 +1,321 @@
+---
+---
+
+@charset "utf-8";
+
+/*
+   Load the selected Minimal Mistakes skin first,
+   then the main theme.
+*/
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* ============================================================
+   OsbornePro Security Research custom styling
+   ============================================================ */
+
+.page {
+  max-width: 1280px;
+}
+
+.page__content {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.page__content p {
+  max-width: 900px;
+}
+
+/* ------------------------------------------------------------
+   Masthead
+   ------------------------------------------------------------ */
+
+.masthead {
+  border-bottom: 1px solid rgba(203, 166, 247, 0.18);
+  backdrop-filter: blur(12px);
+}
+
+.site-title {
+  font-weight: 700;
+}
+
+.greedy-nav a {
+  font-weight: 600;
+}
+
+/* ------------------------------------------------------------
+   Hero / splash area
+   ------------------------------------------------------------ */
+
+.page__hero--overlay {
+  min-height: 420px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(203, 166, 247, 0.16);
+}
+
+.page__hero--overlay .wrapper {
+  max-width: 1180px;
+}
+
+.page__hero--overlay .page__title {
+  font-size: clamp(2.3rem, 5vw, 4.2rem);
+  line-height: 1.08;
+  margin-bottom: 1rem;
+}
+
+.page__hero--overlay .page__lead {
+  max-width: 760px;
+  font-size: 1.15rem;
+  line-height: 1.65;
+}
+
+/* ------------------------------------------------------------
+   Buttons
+   ------------------------------------------------------------ */
+
+.btn {
+  border-radius: 8px;
+  transition:
+    transform 0.16s ease,
+    box-shadow 0.16s ease,
+    background-color 0.16s ease;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+.btn--primary {
+  box-shadow: 0 5px 18px rgba(203, 166, 247, 0.15);
+}
+
+/* ------------------------------------------------------------
+   Feature row cards
+   ------------------------------------------------------------ */
+
+.feature__wrapper {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.feature__item {
+  margin-bottom: 1.5rem;
+}
+
+.feature__item .archive__item {
+  height: 100%;
+  padding: 1.35rem;
+  border: 1px solid rgba(203, 166, 247, 0.15);
+  border-radius: 12px;
+  background:
+    linear-gradient(
+      145deg,
+      rgba(203, 166, 247, 0.05),
+      rgba(137, 180, 250, 0.025)
+    );
+  transition:
+    transform 0.18s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.feature__item .archive__item:hover {
+  transform: translateY(-3px);
+  border-color: rgba(203, 166, 247, 0.35);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+.feature__item .archive__item-title {
+  margin-top: 0;
+}
+
+/* ------------------------------------------------------------
+   Research cards
+   ------------------------------------------------------------ */
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.8rem 0 3rem;
+}
+
+.research-card {
+  padding: 1.25rem 1.35rem;
+  border-radius: 12px;
+  border: 1px solid rgba(203, 166, 247, 0.13);
+  background: rgba(255, 255, 255, 0.025);
+}
+
+.research-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  font-size: 1.05rem;
+}
+
+.research-card p {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+/* ------------------------------------------------------------
+   Hack The Box dropdown panels
+   ------------------------------------------------------------ */
+
+details {
+  margin: 1rem 0;
+  border: 1px solid rgba(203, 166, 247, 0.15);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.025);
+  overflow: hidden;
+  transition:
+    border-color 0.18s ease,
+    background-color 0.18s ease;
+}
+
+details:hover {
+  border-color: rgba(203, 166, 247, 0.35);
+}
+
+details[open] {
+  background: rgba(255, 255, 255, 0.035);
+  border-color: rgba(203, 166, 247, 0.28);
+}
+
+details summary {
+  cursor: pointer;
+  padding: 1rem 1.15rem;
+  font-weight: 700;
+  user-select: none;
+  list-style-position: inside;
+}
+
+details[open] summary {
+  border-bottom: 1px solid rgba(203, 166, 247, 0.12);
+}
+
+details > ul {
+  columns: 3;
+  column-gap: 2rem;
+  padding: 1.2rem 2rem 1.4rem 3rem;
+  margin: 0;
+}
+
+details > ul li {
+  break-inside: avoid;
+  margin-bottom: 0.35rem;
+}
+
+.machine-count {
+  float: right;
+  font-size: 0.78rem;
+  font-weight: 500;
+  opacity: 0.65;
+}
+
+/* ------------------------------------------------------------
+   Endgame / lab links
+   ------------------------------------------------------------ */
+
+.lab-links {
+  margin: 1.4rem 0 2.5rem;
+}
+
+.lab-links .btn {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* ------------------------------------------------------------
+   External link section
+   ------------------------------------------------------------ */
+
+.external-links {
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  border: 1px solid rgba(203, 166, 247, 0.14);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.external-links h3:first-child {
+  margin-top: 0;
+}
+
+.external-links .btn {
+  margin-right: 0.4rem;
+  margin-bottom: 0.5rem;
+}
+
+/* ------------------------------------------------------------
+   Headings
+   ------------------------------------------------------------ */
+
+.page__content h1 {
+  margin-top: 3.5rem;
+}
+
+.page__content h2 {
+  margin-top: 2.8rem;
+}
+
+.page__content h3 {
+  margin-top: 2rem;
+}
+
+/* ------------------------------------------------------------
+   Blockquotes
+   ------------------------------------------------------------ */
+
+blockquote {
+  border-left-width: 4px;
+  padding: 0.8rem 1.1rem;
+  border-radius: 0 8px 8px 0;
+  background: rgba(255, 255, 255, 0.025);
+}
+
+/* ------------------------------------------------------------
+   Footer
+   ------------------------------------------------------------ */
+
+.page__footer {
+  margin-top: 5rem;
+}
+
+/* ------------------------------------------------------------
+   Responsive
+   ------------------------------------------------------------ */
+
+@media (max-width: 900px) {
+  .research-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  details > ul {
+    columns: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  details > ul {
+    columns: 1;
+    padding-left: 2.5rem;
+  }
+
+  .machine-count {
+    float: none;
+    display: block;
+    margin-top: 0.2rem;
+  }
+
+  .page__hero--overlay {
+    min-height: 360px;
+  }
+}
