@@ -143,19 +143,26 @@ a:active {
   box-shadow: 0 7px 22px rgba(57, 255, 136, 0.20);
 }
 
-/* Inverse buttons */
+/* ------------------------------------------------------------
+   Inverse / secondary buttons
+   Dark with green border, green on hover
+   ------------------------------------------------------------ */
+
 .btn--inverse,
 .btn--inverse:visited {
+  background-color: rgba(57, 255, 136, 0.035) !important;
+  border: 1px solid rgba(57, 255, 136, 0.55) !important;
   color: $hacker-green-soft !important;
-  border-color: rgba(57, 255, 136, 0.45) !important;
+  box-shadow: none !important;
 }
 
 .btn--inverse:hover,
 .btn--inverse:focus,
 .btn--inverse:active {
-  color: $dark-text !important;
   background-color: $hacker-green !important;
   border-color: $hacker-green !important;
+  color: $dark-text !important;
+  box-shadow: 0 5px 18px rgba(57, 255, 136, 0.16) !important;
 }
 
 /* ------------------------------------------------------------
