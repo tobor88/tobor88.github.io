@@ -32,7 +32,7 @@
    ------------------------------------------------------------ */
 
 .masthead {
-  border-bottom: 1px solid rgba(203, 166, 247, 0.18);
+  border-bottom: 1px solid rgba(57, 255, 136, 0.18);
   backdrop-filter: blur(12px);
 }
 
@@ -52,7 +52,7 @@
   min-height: 420px;
   display: flex;
   align-items: center;
-  border-bottom: 1px solid rgba(203, 166, 247, 0.16);
+  border-bottom: 1px solid rgba(57, 255, 136, 0.16);
 }
 
 .page__hero--overlay .wrapper {
@@ -88,7 +88,7 @@
 }
 
 .btn--primary {
-  box-shadow: 0 5px 18px rgba(203, 166, 247, 0.15);
+  box-shadow: 0 5px 18px rgba(57, 255, 136, 0.15);
 }
 
 /* ------------------------------------------------------------
@@ -107,12 +107,12 @@
 .feature__item .archive__item {
   height: 100%;
   padding: 1.35rem;
-  border: 1px solid rgba(203, 166, 247, 0.15);
+  border: 1px solid rgba(57, 255, 136, 0.15);
   border-radius: 12px;
   background:
     linear-gradient(
       145deg,
-      rgba(203, 166, 247, 0.05),
+      rgba(57, 255, 136, 0.05),
       rgba(137, 180, 250, 0.025)
     );
   transition:
@@ -123,7 +123,7 @@
 
 .feature__item .archive__item:hover {
   transform: translateY(-3px);
-  border-color: rgba(203, 166, 247, 0.35);
+  border-color: rgba(57, 255, 136, 0.35);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
 }
 
@@ -145,7 +145,7 @@
 .research-card {
   padding: 1.25rem 1.35rem;
   border-radius: 12px;
-  border: 1px solid rgba(203, 166, 247, 0.13);
+  border: 1px solid rgba(57, 255, 136, 0.13);
   background: rgba(255, 255, 255, 0.025);
 }
 
@@ -167,7 +167,7 @@
 
 details {
   margin: 1rem 0;
-  border: 1px solid rgba(203, 166, 247, 0.15);
+  border: 1px solid rgba(57, 255, 136, 0.15);
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.025);
   overflow: hidden;
@@ -177,12 +177,12 @@ details {
 }
 
 details:hover {
-  border-color: rgba(203, 166, 247, 0.35);
+  border-color: rgba(57, 255, 136, 0.35);
 }
 
 details[open] {
   background: rgba(255, 255, 255, 0.035);
-  border-color: rgba(203, 166, 247, 0.28);
+  border-color: rgba(57, 255, 136, 0.28);
 }
 
 details summary {
@@ -206,7 +206,7 @@ details summary {
 }
 
 details[open] summary {
-  border-bottom: 1px solid rgba(203, 166, 247, 0.12);
+  border-bottom: 1px solid rgba(57, 255, 136, 0.12);
 }
 
 details > ul {
@@ -241,7 +241,7 @@ details > ul li {
 .external-links {
   padding: 1.5rem;
   margin: 1.5rem 0;
-  border: 1px solid rgba(203, 166, 247, 0.14);
+  border: 1px solid rgba(57, 255, 136, 0.14);
   border-radius: 12px;
   background: rgba(255, 255, 255, 0.02);
 }
@@ -346,4 +346,91 @@ blockquote {
   .page__hero--overlay {
     min-height: 360px;
   }
+}
+/* ============================================================
+   OsbornePro Hacker Green Accent
+   ============================================================ */
+
+$hacker-green: #39ff88;
+$hacker-green-soft: #2ee66b;
+$hacker-green-dark: #19b957;
+
+/* Links */
+a {
+  color: $hacker-green-soft;
+}
+
+a:hover,
+a:focus {
+  color: $hacker-green;
+}
+
+/* Primary buttons */
+.btn--primary {
+  background-color: $hacker-green-dark;
+  color: #0b0f0c !important;
+  border-color: $hacker-green-dark;
+  box-shadow: 0 5px 18px rgba(57, 255, 136, 0.15);
+}
+
+.btn--primary:hover {
+  background-color: $hacker-green;
+  color: #050806 !important;
+}
+
+/* Masthead accent */
+.masthead {
+  border-bottom-color: rgba(57, 255, 136, 0.20);
+}
+
+/* Feature cards */
+.feature__item .archive__item {
+  border-color: rgba(57, 255, 136, 0.16);
+  background:
+    linear-gradient(
+      145deg,
+      rgba(57, 255, 136, 0.045),
+      rgba(25, 185, 87, 0.015)
+    );
+}
+
+.feature__item .archive__item:hover {
+  border-color: rgba(57, 255, 136, 0.45);
+  box-shadow: 0 12px 30px rgba(57, 255, 136, 0.08);
+}
+
+/* Research cards */
+.research-card {
+  border-color: rgba(57, 255, 136, 0.16);
+}
+
+.research-card:hover {
+  border-color: rgba(57, 255, 136, 0.35);
+}
+
+/* Machine dropdowns */
+details {
+  border-color: rgba(57, 255, 136, 0.16);
+}
+
+details:hover {
+  border-color: rgba(57, 255, 136, 0.40);
+}
+
+details[open] {
+  border-color: rgba(57, 255, 136, 0.30);
+}
+
+details[open] summary {
+  border-bottom-color: rgba(57, 255, 136, 0.15);
+}
+
+/* Blockquotes */
+blockquote {
+  border-left-color: $hacker-green-soft;
+}
+
+/* External links panel */
+.external-links {
+  border-color: rgba(57, 255, 136, 0.16);
 }

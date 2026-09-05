@@ -6,8 +6,8 @@ classes: wide
 author_profile: false
 
 header:
-  overlay_color: "#11111b"
-  overlay_filter: "0.25"
+  overlay_color: "#07110b"
+  overlay_filter: "0.20"
   caption: "Offensive Security · Systems · Architecture"
   actions:
     - label: "Browse Writeups"
