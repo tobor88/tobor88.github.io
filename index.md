@@ -344,9 +344,12 @@ Architecture and engineering work covering real-world infrastructure, security, 
 
 Custom software, security tooling, automation, and open-source projects.
 
-[GitHub →](https://github.com/tobor88){: .btn .btn--inverse}
+[Personal GitHub →](https://github.com/tobor88){: .btn .btn--inverse}
 [OsbornePro GitHub →](https://github.com/osbornepro){: .btn .btn--inverse}
 [NovaKey →](https://novakey.app/){: .btn .btn--inverse}
+[RDAP-CLI →](https://rdap-cli.osbornepro.com/){: .btn .btn--inverse}
+[EncrypIT Documentation →](https://encrypit.osbornepro.com/){: .btn .btn--inverse}
+[BTPS Security Pacakge →](https://btpssecpack.osbornepro.com/){: .btn .btn--inverse}
 [PowerShell Gallery →](https://www.powershellgallery.com/profiles/tobor){: .btn .btn--inverse}
 
 ### Technical Content & Credentials
