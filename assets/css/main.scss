@@ -11,8 +11,19 @@
 @import "minimal-mistakes";
 
 /* ============================================================
-   OsbornePro Security Research custom styling
+   OsbornePro Security Research
+   Custom dark / hacker green styling
    ============================================================ */
+
+$hacker-green: #39ff88;
+$hacker-green-soft: #2ee66b;
+$hacker-green-dark: #19b957;
+$hacker-green-deep: #0f8f43;
+$dark-text: #050806;
+
+/* ------------------------------------------------------------
+   Global layout
+   ------------------------------------------------------------ */
 
 .page {
   max-width: 1280px;
@@ -28,11 +39,27 @@
 }
 
 /* ------------------------------------------------------------
-   Masthead
+   Global links
+   Force visited links to remain green
+   ------------------------------------------------------------ */
+
+a,
+a:visited {
+  color: $hacker-green-soft !important;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: $hacker-green !important;
+}
+
+/* ------------------------------------------------------------
+   Masthead / navigation
    ------------------------------------------------------------ */
 
 .masthead {
-  border-bottom: 1px solid rgba(57, 255, 136, 0.18);
+  border-bottom: 1px solid rgba(57, 255, 136, 0.20);
   backdrop-filter: blur(12px);
 }
 
@@ -42,6 +69,16 @@
 
 .greedy-nav a {
   font-weight: 600;
+}
+
+.greedy-nav a,
+.greedy-nav a:visited {
+  color: inherit !important;
+}
+
+.greedy-nav a:hover,
+.greedy-nav a:focus {
+  color: $hacker-green !important;
 }
 
 /* ------------------------------------------------------------
@@ -80,15 +117,45 @@
   transition:
     transform 0.16s ease,
     box-shadow 0.16s ease,
-    background-color 0.16s ease;
+    background-color 0.16s ease,
+    border-color 0.16s ease;
 }
 
 .btn:hover {
   transform: translateY(-2px);
 }
 
-.btn--primary {
+/* Primary buttons */
+.btn--primary,
+.btn--primary:visited {
+  background-color: $hacker-green-dark !important;
+  border-color: $hacker-green-dark !important;
+  color: $dark-text !important;
   box-shadow: 0 5px 18px rgba(57, 255, 136, 0.15);
+}
+
+.btn--primary:hover,
+.btn--primary:focus,
+.btn--primary:active {
+  background-color: $hacker-green !important;
+  border-color: $hacker-green !important;
+  color: $dark-text !important;
+  box-shadow: 0 7px 22px rgba(57, 255, 136, 0.20);
+}
+
+/* Inverse buttons */
+.btn--inverse,
+.btn--inverse:visited {
+  color: $hacker-green-soft !important;
+  border-color: rgba(57, 255, 136, 0.45) !important;
+}
+
+.btn--inverse:hover,
+.btn--inverse:focus,
+.btn--inverse:active {
+  color: $dark-text !important;
+  background-color: $hacker-green !important;
+  border-color: $hacker-green !important;
 }
 
 /* ------------------------------------------------------------
@@ -107,13 +174,13 @@
 .feature__item .archive__item {
   height: 100%;
   padding: 1.35rem;
-  border: 1px solid rgba(57, 255, 136, 0.15);
+  border: 1px solid rgba(57, 255, 136, 0.16);
   border-radius: 12px;
   background:
     linear-gradient(
       145deg,
-      rgba(57, 255, 136, 0.05),
-      rgba(137, 180, 250, 0.025)
+      rgba(57, 255, 136, 0.045),
+      rgba(25, 185, 87, 0.015)
     );
   transition:
     transform 0.18s ease,
@@ -123,12 +190,28 @@
 
 .feature__item .archive__item:hover {
   transform: translateY(-3px);
-  border-color: rgba(57, 255, 136, 0.35);
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+  border-color: rgba(57, 255, 136, 0.45);
+  box-shadow: 0 12px 30px rgba(57, 255, 136, 0.08);
 }
 
 .feature__item .archive__item-title {
   margin-top: 0;
+}
+
+/* Force feature-card buttons to stay green after clicking */
+.feature__item a.btn,
+.feature__item a.btn:visited {
+  background-color: $hacker-green-dark !important;
+  border-color: $hacker-green-dark !important;
+  color: $dark-text !important;
+}
+
+.feature__item a.btn:hover,
+.feature__item a.btn:focus,
+.feature__item a.btn:active {
+  background-color: $hacker-green !important;
+  border-color: $hacker-green !important;
+  color: $dark-text !important;
 }
 
 /* ------------------------------------------------------------
@@ -145,8 +228,18 @@
 .research-card {
   padding: 1.25rem 1.35rem;
   border-radius: 12px;
-  border: 1px solid rgba(57, 255, 136, 0.13);
+  border: 1px solid rgba(57, 255, 136, 0.16);
   background: rgba(255, 255, 255, 0.025);
+  transition:
+    transform 0.18s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.research-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(57, 255, 136, 0.35);
+  box-shadow: 0 10px 25px rgba(57, 255, 136, 0.05);
 }
 
 .research-card h3 {
@@ -167,22 +260,24 @@
 
 details {
   margin: 1rem 0;
-  border: 1px solid rgba(57, 255, 136, 0.15);
+  border: 1px solid rgba(57, 255, 136, 0.16);
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.025);
   overflow: hidden;
   transition:
     border-color 0.18s ease,
-    background-color 0.18s ease;
+    background-color 0.18s ease,
+    box-shadow 0.18s ease;
 }
 
 details:hover {
-  border-color: rgba(57, 255, 136, 0.35);
+  border-color: rgba(57, 255, 136, 0.40);
+  box-shadow: 0 8px 22px rgba(57, 255, 136, 0.04);
 }
 
 details[open] {
   background: rgba(255, 255, 255, 0.035);
-  border-color: rgba(57, 255, 136, 0.28);
+  border-color: rgba(57, 255, 136, 0.30);
 }
 
 details summary {
@@ -196,6 +291,10 @@ details summary {
   list-style-position: inside;
 }
 
+details[open] summary {
+  border-bottom: 1px solid rgba(57, 255, 136, 0.15);
+}
+
 .machine-count {
   float: none;
   font-size: 0.78rem;
@@ -203,10 +302,6 @@ details summary {
   padding-left: 1rem;
   font-weight: 500;
   opacity: 0.65;
-}
-
-details[open] summary {
-  border-bottom: 1px solid rgba(57, 255, 136, 0.12);
 }
 
 details > ul {
@@ -219,6 +314,18 @@ details > ul {
 details > ul li {
   break-inside: avoid;
   margin-bottom: 0.35rem;
+}
+
+/* Keep writeup links green even after visiting */
+details a,
+details a:visited {
+  color: $hacker-green-soft !important;
+}
+
+details a:hover,
+details a:focus,
+details a:active {
+  color: $hacker-green !important;
 }
 
 /* ------------------------------------------------------------
@@ -234,6 +341,22 @@ details > ul li {
   margin-bottom: 0.5rem;
 }
 
+/* Force Endgame buttons to stay green after clicking */
+.lab-links a.btn,
+.lab-links a.btn:visited {
+  background-color: $hacker-green-dark !important;
+  border-color: $hacker-green-dark !important;
+  color: $dark-text !important;
+}
+
+.lab-links a.btn:hover,
+.lab-links a.btn:focus,
+.lab-links a.btn:active {
+  background-color: $hacker-green !important;
+  border-color: $hacker-green !important;
+  color: $dark-text !important;
+}
+
 /* ------------------------------------------------------------
    External link section
    ------------------------------------------------------------ */
@@ -241,19 +364,11 @@ details > ul li {
 .external-links {
   padding: 1.5rem;
   margin: 1.5rem 0;
-  border: 1px solid rgba(57, 255, 136, 0.14);
+  border: 1px solid rgba(57, 255, 136, 0.16);
   border-radius: 12px;
   background: rgba(255, 255, 255, 0.02);
 }
 
-.external-links h3:first-child {
-  margin-top: 0;
-}
-
-.external-links .btn {
-  margin-right: 0.4rem;
-  margin-bottom: 0.5rem;
-}
 .external-links h3 {
   margin-top: 2rem;
   margin-bottom: 0.6rem;
@@ -300,6 +415,7 @@ hr + h2 {
 
 blockquote {
   border-left-width: 4px;
+  border-left-color: $hacker-green-soft;
   padding: 0.8rem 1.1rem;
   border-radius: 0 8px 8px 0;
   background: rgba(255, 255, 255, 0.025);
@@ -311,6 +427,16 @@ blockquote {
 
 .page__footer {
   margin-top: 5rem;
+}
+
+.page__footer a,
+.page__footer a:visited {
+  color: inherit !important;
+}
+
+.page__footer a:hover,
+.page__footer a:focus {
+  color: $hacker-green !important;
 }
 
 /* ------------------------------------------------------------
@@ -346,91 +472,4 @@ blockquote {
   .page__hero--overlay {
     min-height: 360px;
   }
-}
-/* ============================================================
-   OsbornePro Hacker Green Accent
-   ============================================================ */
-
-$hacker-green: #39ff88;
-$hacker-green-soft: #2ee66b;
-$hacker-green-dark: #19b957;
-
-/* Links */
-a {
-  color: $hacker-green-soft;
-}
-
-a:hover,
-a:focus {
-  color: $hacker-green;
-}
-
-/* Primary buttons */
-.btn--primary {
-  background-color: $hacker-green-dark;
-  color: #0b0f0c !important;
-  border-color: $hacker-green-dark;
-  box-shadow: 0 5px 18px rgba(57, 255, 136, 0.15);
-}
-
-.btn--primary:hover {
-  background-color: $hacker-green;
-  color: #050806 !important;
-}
-
-/* Masthead accent */
-.masthead {
-  border-bottom-color: rgba(57, 255, 136, 0.20);
-}
-
-/* Feature cards */
-.feature__item .archive__item {
-  border-color: rgba(57, 255, 136, 0.16);
-  background:
-    linear-gradient(
-      145deg,
-      rgba(57, 255, 136, 0.045),
-      rgba(25, 185, 87, 0.015)
-    );
-}
-
-.feature__item .archive__item:hover {
-  border-color: rgba(57, 255, 136, 0.45);
-  box-shadow: 0 12px 30px rgba(57, 255, 136, 0.08);
-}
-
-/* Research cards */
-.research-card {
-  border-color: rgba(57, 255, 136, 0.16);
-}
-
-.research-card:hover {
-  border-color: rgba(57, 255, 136, 0.35);
-}
-
-/* Machine dropdowns */
-details {
-  border-color: rgba(57, 255, 136, 0.16);
-}
-
-details:hover {
-  border-color: rgba(57, 255, 136, 0.40);
-}
-
-details[open] {
-  border-color: rgba(57, 255, 136, 0.30);
-}
-
-details[open] summary {
-  border-bottom-color: rgba(57, 255, 136, 0.15);
-}
-
-/* Blockquotes */
-blockquote {
-  border-left-color: $hacker-green-soft;
-}
-
-/* External links panel */
-.external-links {
-  border-color: rgba(57, 255, 136, 0.16);
 }
