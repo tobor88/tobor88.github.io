@@ -1,17 +1,103 @@
-remote_theme: "mmistakes/minimal-mistakes"
+# ============================================================
+# Theme
+# ============================================================
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
 minimal_mistakes_skin: "catppuccin_mocha"
 
 locale: "en-US"
-
 title: "OsbornePro Security Research"
+title_separator: "|"
 subtitle: "Offensive Security · Systems · Architecture"
-
 name: "Robert H. Osborne"
 
 description: >
-  Hack The Box writeups, offensive security research,
-  and practical analysis of how systems fail.
+  Offensive security research, Hack The Box writeups,
+  and practical analysis of how systems fail and how
+  better architecture can prevent it.
+
+url: "https://writeups.osbornepro.com"
+baseurl: ""
+
+repository: "tobor88/writeups"
+
+# ============================================================
+# Site behavior
+# ============================================================
+
+breadcrumbs: false
+search: false
+
+enable_copy_code_button: true
+
+# ============================================================
+# Author profile
+# ============================================================
+
+author:
+  name: "Robert H. Osborne"
+  bio: "Cloud, infrastructure, automation, security, and architecture."
+  location: "United States"
+
+  links:
+    - label: "OsbornePro"
+      icon: "fas fa-fw fa-link"
+      url: "https://osbornepro.com"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tobor88"
+
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/roberthosborne/"
+
+    - label: "Hack The Box"
+      icon: "fas fa-fw fa-cube"
+      url: "https://app.hackthebox.com/public/users/52286"
+
+# ============================================================
+# Footer
+# ============================================================
+
+footer:
+  links:
+    - label: "OsbornePro"
+      icon: "fas fa-fw fa-link"
+      url: "https://osbornepro.com"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tobor88"
+
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/roberthosborne/"
+
+# ============================================================
+# Plugins
+# ============================================================
 
 plugins:
   - jekyll-include-cache
+
+# ============================================================
+# Defaults
+# ============================================================
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+
+# ============================================================
+# Markdown
+# ============================================================
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
